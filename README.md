@@ -13,7 +13,7 @@
 
  <img src="https://komarev.com/ghpvc/?username=vijayadithyabk&label=Profile%20views&color=0e75b6&style=flat" alt="vijayadithyabk" /><br>
 <p>🌱 I’m currently learning SAP UI 5<br>
-👨‍💻 All of my projects are available at <a href="https://github.com/VijayAdithyaBK" target="blank"></a></p>
+👨‍💻 All of my projects are available at <a href="https://github.com/VijayAdithyaBK" target="blank">github.com/VijayAdithyaBK</a></p>
 
 
 <div align="center">
