@@ -91,7 +91,7 @@
 
 
 <div align="center">
-  <p><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=VijayAdithyabk&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="vijayadithyabk" /></p>
+  <p align="left"><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=VijayAdithyabk&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="vijayadithyabk" /></p>
   <p><img  src="https://github-readme-stats.vercel.app/api?username=VijayAdithyabk&theme=default&hide_border=true&include_all_commits=true&count_private=true" alt="vijayadithyabk" /></p>
 </div>
 <div align="center">
