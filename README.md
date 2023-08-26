@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://github.com/VijayAdithyaBK/VijayAdithyaBK/blob/main/header.png" alt="banner that says I'm Vijay Adithya B K">
-  <h4 align="center"><samp>Hi there 👋🏾 Welcome to my GitHub! I'm currently working towards transitioning in my career to SAP UI5. While I might feel submerged in documentation at the moment, I'm confident I'll learn to swim eventually ❄️</samp></h4>
+  <h4 align="center"><samp>Hi there 👋🏾 Welcome to my GitHub! I'm currently working towards transitioning my career to SAP UI5. While I might feel submerged in the vast ocean of documentation at the moment, I'm confident I'll learn to navigate and swim through it eventually ❄️</samp></h4>
   <p><samp>🚀 JavaScript Developer | 🎮 Gaming Enthusiast | Open for Hiring<br>
     A passionate frontend developer, and a flexible learner.</samp></p>
     <p align="center">
