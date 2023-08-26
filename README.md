@@ -44,6 +44,12 @@ Generate color palettes like cosmic rays for design odysseys.
 Forecasting celestial conditions with an Angular telescope.
 🌦️ [View](https://github.com/VijayAdithyaBK/WeatherApp)
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vijayadithyabk&show_icons=true&locale=en&layout=compact" alt="vijayadithyabk" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vijayadithyabk&show_icons=true&locale=en" alt="vijayadithyabk" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vijayadithyabk&" alt="vijayadithyabk" /></p>
+
 <div align="center">
   <a href="mailto:vijayadithyabk@gmail.com">
     <img src="https://img.shields.io/badge/Email-vijayadithyabk%40gmail.com-red?style=for-the-badge&logo=gmail" alt="Email">
