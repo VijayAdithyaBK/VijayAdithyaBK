@@ -1,5 +1,5 @@
 <div align="center">
-  <p align="center"><img src="https://github.com/VijayAdithyaBK/VijayAdithyaBK/blob/main/header.png" alt="banner that says Sarah hart Landolt - software developer, artist, designer"></p>
+  <img src="https://github.com/VijayAdithyaBK/VijayAdithyaBK/blob/main/header.png" alt="banner that says Sarah hart Landolt - software developer, artist, designer">
   <p>🚀 JavaScript Developer | 🎮 Gaming Enthusiast<br>
     A passionate frontend developer, and a flexible learner.</p>
     <p align="center">
@@ -13,7 +13,7 @@
  <img src="https://komarev.com/ghpvc/?username=vijayadithyabk&label=Profile%20views&color=0e75b6&style=flat" alt="vijayadithyabk" /><br>
 <p>🌱 I’m currently learning SAP UI 5<br>
 👨‍💻 All of my projects are available at <a href="https://github.com/VijayAdithyaBK" target="blank">github.com/VijayAdithyaBK</a></p>
-
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
 
 <div align="center">
   <p align="center">
