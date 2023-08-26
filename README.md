@@ -3,9 +3,6 @@
   <h4 align="center"><samp> Hi there 👋🏾  welcome to my Github! I'm currently working towards making a transition in my career to SAP UI5. I might be drowning in the documentation as of the moment, but I'll learn to swim eventually ❄️ </samp></h4>
   <p><samp>🚀 JavaScript Developer | 🎮 Gaming Enthusiast | Open for Hiring<br>
     A passionate frontend developer, and a flexible learner.</samp></p>
-  <p align="center">
-    <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
-  </p>
     <p align="center">
       <a href="https://linkedin.com/in/vijayadithyabk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vijayadithyabk" height="30" width="40" /></a>
       <a href="https://medium.com/@criesin.90days" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@criesin.90days" height="30" width="40" /></a>
