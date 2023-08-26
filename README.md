@@ -5,6 +5,8 @@
   📍 Bengaluru, India | 📧 vijayadithyabk@gmail.com | 👥 [LinkedIn](https://linkedin.com/in/vijayadithyabk)</p>
 </div>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=vijayadithyabk&label=Profile%20views&color=0e75b6&style=flat" alt="vijayadithyabk" /> </p>
+
 ## 👋 Greetings, fellow space traveler! 
 
 Welcome to my cosmic codebase. I'm a highly adaptable JavaScript Developer with a passion for gaming, movies, and novels. I wield my analytical skills to craft, test, and enhance digital galaxies. I've even ventured into crafting a few constellations of my own.
