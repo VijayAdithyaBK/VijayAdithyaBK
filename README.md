@@ -1,6 +1,6 @@
 <div align="center">
-  <h1 style="font-family: 'Harmond Free Display', sans-serif;">Vijay Adithya B K</h1>
-  <p style="font-family: 'Harmond Free Display', sans-serif;">🚀 JavaScript Developer | 🎮 Gaming Enthusiast<br>
+  <h1 style="font-family: 'Helvetica Neue', sans-serif;">Vijay Adithya B K</h1>
+  <p style="font-family: 'Arial', sans-serif;">🚀 JavaScript Developer | 🎮 Gaming Enthusiast<br>
     A passionate frontend developer and a flexible learner.</p>
   <p align="center">
     <a href="https://linkedin.com/in/vijayadithyabk" target="blank">
