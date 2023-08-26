@@ -53,7 +53,7 @@
     <img src="https://img.shields.io/badge/Speech%20Assistant-Talk%20to%20Me🗣️-purple?style=for-the-badge" alt="Speech Assistant">
   </a>
   <!-- Add more project buttons here -->
-</div>
+</div><br>
 
 
 <div align="center">
