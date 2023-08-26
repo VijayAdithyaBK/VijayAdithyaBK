@@ -44,29 +44,29 @@ Generate color palettes like cosmic rays for design odysseys.
 Forecasting celestial conditions with an Angular telescope.
 🌦️ [View](https://github.com/VijayAdithyaBK/WeatherApp)
 
-**Stock Price Data Forecasting using Exponential Smoothing**<br>
-📈 A project showcasing the potential of exponential smoothing for stock price forecasting.
-🔗 [Website / Repo](https://github.com/VijayAdithyaBK/StockPriceForecasting)
+**Stock Price Data Forecasting using Exponential Smoothing:**
+- Demonstrated exponential smoothing for stock price prediction.
+- [GitHub Repository](https://github.com/VijayAdithyaBK/StockPriceForecasting)
 
-**Daily Expense Tracker**<br>
-💰 Developed a dynamic daily expense tracker GUI.
-🔗 [Website / Repo](https://github.com/VijayAdithyaBK/DailyExpenseTracker)
+**Daily Expense Tracker:**
+- Developed a dynamic daily expense tracker GUI.
+- [GitHub Repository](https://github.com/VijayAdithyaBK/DailyExpenseTracker)
 
-**Daily Python**<br>
-🐍 A repository with multiple simple Python projects.
-🔗 [Website / Repo](https://github.com/VijayAdithyaBK/Daily-Python)
+**Daily Python:**
+- Collection of simple Python projects.
+- [GitHub Repository](https://github.com/VijayAdithyaBK/Daily-Python)
 
-**Voice Notes**<br>
-🎙️ Use Python Speech Recognition to dictate and write down notes.
-🔗 [Website / Repo](https://github.com/VijayAdithyaBK/voice_notes)
+**Voice Notes:**
+- Dictate and create notes using Python Speech Recognition.
+- [GitHub Repository](https://github.com/VijayAdithyaBK/voice_notes)
 
-**Speech Assistant**<br>
-🗣️ A simple Python-based Speech Assistant.
-🔗 [Website / Repo](https://github.com/VijayAdithyaBK/speech_assistant)
+**Speech Assistant:**
+- A simple Python-based Speech Assistant.
+- [GitHub Repository](https://github.com/VijayAdithyaBK/speech_assistant)
 
-**Recognition of Human Actions**<br>
-🤖 Final year project using Deep Convolutional Neural Networks to recognize human actions.
-🔗 [Website / Repo](https://github.com/VijayAdithyaBK/HumanActionsRecognition)
+**Recognition of Human Actions:**
+- Final year project using Deep Convolutional Neural Networks to recognize human actions.
+- [GitHub Repository](https://github.com/VijayAdithyaBK/Recognition-of-Human-Actions)
 
 
 <div align="center">
