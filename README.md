@@ -44,6 +44,31 @@ Generate color palettes like cosmic rays for design odysseys.
 Forecasting celestial conditions with an Angular telescope.
 🌦️ [View](https://github.com/VijayAdithyaBK/WeatherApp)
 
+**Stock Price Data Forecasting using Exponential Smoothing**<br>
+- Project aimed to showcase the potential of exponential smoothing for stock price forecasting.
+- Website / Repo: [StockPriceForecasting](https://github.com/VijayAdithyaBK/StockPriceForecasting)
+
+**Daily Expense Tracker**<br>
+- Developed a dynamic daily expense tracker GUI.
+- Website / Repo: [DailyExpenseTracker](https://github.com/VijayAdithyaBK/DailyExpenseTracker)
+
+**Daily Python**<br>
+- A repository with multiple simple Python projects.
+- Website / Repo: [Daily-Python](https://github.com/VijayAdithyaBK/Daily-Python)
+
+**Voice Notes**<br>
+- Using Python Speech Recognition, write down notes by dictating.
+- Website / Repo: [voice_notes](https://github.com/VijayAdithyaBK/voice_notes)
+
+**Speech Assistant**<br>
+- A simple Python-based Speech Assistant.
+- Website / Repo: [speech_assistant](https://github.com/VijayAdithyaBK/speech_assistant)
+
+**Recognition of Human Actions**<br>
+- Final year project to recognize human actions using Deep Convolutional Neural Networks.
+- Website / Repo: [HumanActionsRecognition](https://github.com/VijayAdithyaBK/HumanActionsRecognition)
+
+
 <div align="center">
   <p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=vijayadithyabk&show_icons=true&locale=en&layout=compact" alt="vijayadithyabk" /></p>
 <p><img  src="https://github-readme-stats.vercel.app/api?username=vijayadithyabk&show_icons=true&locale=en" alt="vijayadithyabk" /></p>
