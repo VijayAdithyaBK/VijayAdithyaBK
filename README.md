@@ -28,7 +28,7 @@
 <div align="center">
   <p align="center">
     <a href="https://angular.io" target="_blank" rel="noreferrer">
-      <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular">
+      <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white" alt="angular">
     </a>
     <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
       <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" alt="C++">
