@@ -14,8 +14,8 @@
 </p>
 
 
-🌱 I’m currently learning **SAP UI 5**
-👨‍💻 All of my projects are available at [https://github.com/VijayAdithyaBK](https://github.com/VijayAdithyaBK)
+<p>🌱 I’m currently learning **SAP UI 5**
+👨‍💻 All of my projects are available at [https://github.com/VijayAdithyaBK](https://github.com/VijayAdithyaBK)</p>
 
 ### 🛸 Experience Warp Drive
 
