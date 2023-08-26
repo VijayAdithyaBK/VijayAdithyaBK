@@ -12,7 +12,7 @@
 
 
 <div align="center">
-  <p><img src="https://komarev.com/ghpvc/?username=vijayadithyabk&label=Profile%20views&color=0e75b6&style=flat" alt="vijayadithyabk" /><br></p>
+  <p><img src="https://komarev.com/ghpvc/?username=vijayadithyabk&label=Profile%20views&color=0e75b6&style=flat" alt="vijayadithyabk" /></p>
 </div>
 
 <p>🌱 I’m currently learning SAP UI 5<br>
