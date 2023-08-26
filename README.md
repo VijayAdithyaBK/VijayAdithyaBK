@@ -24,7 +24,10 @@
 
 
 ## 🌌 Featured Constellations
-
+  <a href="https://vijayadithyabk.github.io/AngularPortfolio/home">
+    <img src="https://img.shields.io/badge/Angular%20Portfolio-Explore-ff69b4?style=for-the-badge" alt="Angular Portfolio">
+  </a>
+  <a href
 **Angular Portfolio**<br>
 Elegant and dynamic portfolio orbiting in the digital cosmos.
 🚀 [Explore](https://vijayadithyabk.github.io/AngularPortfolio/home)
