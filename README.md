@@ -10,11 +10,15 @@
 </p>
 </div>
 
-
 <div align="center">
   <p><img src="https://komarev.com/ghpvc/?username=vijayadithyabk&label=Profile%20views&color=0e75b6&style=flat" alt="vijayadithyabk" /></p>
 </div>
 
+<h4 align="center"><samp> Hi there 👋🏾  welcome to my Github! I'm an Open Source Contributor and Professional Yak Shaver. I also like Python and I'm exploring Cloud Tech 🐍 ☁️ </samp></h4>
+
+<p align="center">
+  <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
+</p>
 <p>🌱 I’m currently learning SAP UI 5<br>
 👨‍💻 All of my projects are available at <a href="https://github.com/VijayAdithyaBK" target="blank">github.com/VijayAdithyaBK</a></p>
 
