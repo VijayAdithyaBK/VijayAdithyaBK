@@ -1,8 +1,8 @@
 <div align="center">
   <img src="https://github.com/VijayAdithyaBK/VijayAdithyaBK/blob/main/header.png" alt="banner that says Sarah hart Landolt - software developer, artist, designer">
   <h4 align="center"><samp> Hi there 👋🏾  welcome to my Github! I'm currently working towards making a transition in my career to SAP UI5. I might be drowning in the documentation as of the moment, but I'll learn to swim eventually ❄️ </samp></h4>
-  <p>🚀 JavaScript Developer | 🎮 Gaming Enthusiast | Open for Hiring<br>
-    A passionate frontend developer, and a flexible learner.</p>
+  <p><samp>🚀 JavaScript Developer | 🎮 Gaming Enthusiast | Open for Hiring<br>
+    A passionate frontend developer, and a flexible learner.</samp></p>
   <p align="center">
     <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
   </p>
