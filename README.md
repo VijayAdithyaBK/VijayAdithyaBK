@@ -57,7 +57,7 @@
   <!-- Add more project buttons here -->
 </div><br>
 
-<table>
+<table align="center">
 <tr>
 <td><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=vijayadithyabk&show_icons=true&locale=en&layout=compact" alt="vijayadithyabk" /></td>
 </tr>
