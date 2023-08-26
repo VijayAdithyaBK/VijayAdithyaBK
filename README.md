@@ -27,7 +27,69 @@
 
 <div align="center">
   <p align="center">
-  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=flat&logo=confluence&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white)
+    <a href="https://angular.io" target="_blank" rel="noreferrer">
+      <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
+    </a>
+    <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" alt="C++" width="40" height="40"/>
+    </a>
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white" alt="CSS3" width="40" height="40"/>
+    </a>
+    <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML5" width="40" height="40"/>
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" width="40" height="40"/>
+    </a>
+    <a href="https://www.python.org" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54" alt="Python" width="40" height="40"/>
+    </a>
+    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white" alt="Shell Script" width="40" height="40"/>
+    </a>
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white" alt="TypeScript" width="40" height="40"/>
+    </a>
+    <a href="https://angular.io" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white" alt="Angular" width="40" height="40"/>
+    </a>
+    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white" alt="Django" width="40" height="40"/>
+    </a>
+    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap" width="40" height="40"/>
+    </a>
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white" alt="Node.js" width="40" height="40"/>
+    </a>
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" alt="React" width="40" height="40"/>
+    </a>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white" alt="MySQL" width="40" height="40"/>
+    </a>
+    <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white" alt="Figma" width="40" height="40"/>
+    </a>
+    <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white" alt="NumPy" width="40" height="40"/>
+    </a>
+    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white" alt="Pandas" width="40" height="40"/>
+    </a>
+    <a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white" alt="scikit-learn" width="40" height="40"/>
+    </a>
+    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="LINUX" width="40" height="40"/>
+    </a>
+    <a href="https://www.atlassian.com/software/confluence" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/badge/confluence-%23172BF4.svg?style=flat&logo=confluence&logoColor=white" alt="Confluence" width="40" height="40"/>
+    </a>
+    <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white" alt="Jira" width="40" height="40"/>
+    </a>
   </p>
 </div>
 
