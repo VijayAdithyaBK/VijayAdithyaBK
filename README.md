@@ -46,7 +46,7 @@ Forecasting celestial conditions with an Angular telescope.
 
 <div align="center">
   <p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=vijayadithyabk&show_icons=true&locale=en&layout=compact" alt="vijayadithyabk" /></p>
-<p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=vijayadithyabk&show_icons=true&locale=en" alt="vijayadithyabk" /></p>
+<p><img  src="https://github-readme-stats.vercel.app/api?username=vijayadithyabk&show_icons=true&locale=en" alt="vijayadithyabk" /></p>
 <p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=vijayadithyabk&" alt="vijayadithyabk" /></p>
 </div>
 
