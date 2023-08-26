@@ -14,16 +14,8 @@
 </p>
 
 
-<p>🌱 I’m currently learning **SAP UI 5**
+<p>🌱 I’m currently learning **SAP UI 5**<br>
 👨‍💻 All of my projects are available at [https://github.com/VijayAdithyaBK](https://github.com/VijayAdithyaBK)</p>
-
-### 🛸 Experience Warp Drive
-
-**Custom Software Engineering Analyst**
-Accenture | Dec 2022 - Present
-
-**Application Development Associate**
-Accenture | Sep 2021 - Dec 2022
 
 ## 🌌 Featured Constellations
 
