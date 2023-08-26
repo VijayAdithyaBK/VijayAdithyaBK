@@ -64,7 +64,6 @@
 </tr>
 <tr>
 <td><img  src="https://github-readme-streak-stats.herokuapp.com/?user=vijayadithyabk&" alt="vijayadithyabk" /></td>
-<td><img align="" width="" alt="🦑" src="/nichijou-anime-brasil (1).gif"></td>
 </tr>
 </table>
 
