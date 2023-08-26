@@ -67,3 +67,8 @@
     <img src="https://img.shields.io/badge/Email-vijayadithyabk%40gmail.com-red?style=for-the-badge&logo=gmail" alt="Email">
   </a>
 </div>
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=vijayadithyabk&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vijayadithyabk&hide=TeX&layout=compact)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=vijayadithyabk.vijayadithyabk)
