@@ -9,29 +9,13 @@
 
 Welcome to my cosmic codebase. I'm a highly adaptable JavaScript Developer with a passion for gaming, movies, and novels. I wield my analytical skills to craft, test, and enhance digital galaxies. I've even ventured into crafting a few constellations of my own.
 
-## 🛸 Experience Warp Drive
+### 🛸 Experience Warp Drive
 
-**Custom Software Engineering Analyst**<br>
+**Custom Software Engineering Analyst**
 Accenture | Dec 2022 - Present
 
-- Angular, React.js, and beyond: UI component creation.
-- Warp-speed authentication: User-friendly login systems.
-- Quantum upload module: File uploads with progress indicators.
-- Cosmic notifications: Customizable alerts with dismissal options.
-- Multiverse search: Data filtering and searching components.
-- Real Estate Odyssey: Angular portal for showcasing stellar properties.
-- Universal support: Client interaction and issue resolution.
-- Collaborative Starship: Cross-functional project deliveries.
-
-**Application Development Associate**<br>
+**Application Development Associate**
 Accenture | Sep 2021 - Dec 2022
-
-- Galactic CRUD website: Internal system with manual testing.
-- Stellar UAT: Ensuring celestial user acceptance.
-- Peer mentor: Guiding and growing fledgling stars.
-- Report Nebula: Crafting user-friendly report-generating portals.
-- Data Constellations: Data visualization, validation, and pagination.
-- Agile Supernova: Sprint Demo/Review mastery and project chronicles.
 
 ## 🌌 Featured Constellations
 
