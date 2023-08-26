@@ -69,6 +69,3 @@
     <img src="https://img.shields.io/badge/Email-vijayadithyabk%40gmail.com-red?style=for-the-badge&logo=gmail" alt="Email">
   </a>
 </div>
-
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=vijayadithyabk.vijayadithyabk)
