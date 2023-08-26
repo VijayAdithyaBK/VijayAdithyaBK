@@ -58,7 +58,7 @@
 
 <table>
 <tr>
-<td style="width:700px"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=vijayadithyabk&show_icons=true&locale=en&layout=compact" alt="vijayadithyabk" /></td>
+<td style="min-width:120px"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=vijayadithyabk&show_icons=true&locale=en&layout=compact" alt="vijayadithyabk" /></td>
 <td>  <a href="https://vijayadithyabk.github.io/AngularPortfolio/home">
     <img src="https://img.shields.io/badge/Angular%20Portfolio-Explore🪐-ff69b4?style=for-the-badge" alt="Angular Portfolio">
   </a>
