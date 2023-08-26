@@ -1,6 +1,4 @@
-<div style="width: 100%;">
-  <img src="animated.svg" style="width: 100%;" alt="Click to see the source">
-</div>
+<img src="https://github.com/sarah-hart-landolt/sarah-hart-landolt/blob/master/Sarah%20Hart%20Landolt.png" alt="banner that says Sarah hart Landolt - software developer, artist, designer">
 
 <div align="center">
   <h1>Vijay Adithya B K</h1>
