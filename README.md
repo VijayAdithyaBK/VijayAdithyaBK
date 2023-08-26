@@ -9,7 +9,7 @@
 
 Welcome to my cosmic codebase. I'm a highly adaptable JavaScript Developer with a passion for gaming, movies, and novels. I wield my analytical skills to craft, test, and enhance digital galaxies. I've even ventured into crafting a few constellations of my own.
 
-## 🚀 Experience Warp Drive
+## 🛸 Experience Warp Drive
 
 **Custom Software Engineering Analyst**<br>
 Accenture | Dec 2022 - Present
@@ -57,10 +57,14 @@ Forecasting celestial conditions with an Angular telescope.
 
 ## 🛸 Skills Constellation
 
-🌌 **Frontend:** Angular, React.js, Ionic Framework
-🪐 **Languages:** JavaScript, SQL, C++
-🚀 **Version Control:** Git
-📊 **Tools & Methodologies:** Jira, Agile, Shell Scripting
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Ionic](https://img.shields.io/badge/-Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 ## 🪐 Certifications
 
