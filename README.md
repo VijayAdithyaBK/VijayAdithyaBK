@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://github.com/VijayAdithyaBK/VijayAdithyaBK/blob/main/header.png" alt="banner that says Sarah hart Landolt - software developer, artist, designer">
-  <p>🚀 JavaScript Developer | 🎮 Gaming Enthusiast<br>
+  <p>🚀 JavaScript Developer | 🎮 Gaming Enthusiast | Open for Hiring<br>
     A passionate frontend developer, and a flexible learner.</p>
     <p align="center">
   <a href="https://linkedin.com/in/vijayadithyabk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vijayadithyabk" height="30" width="40" /></a>
@@ -14,6 +14,9 @@
 <p>🌱 I’m currently learning SAP UI 5<br>
 👨‍💻 All of my projects are available at <a href="https://github.com/VijayAdithyaBK" target="blank">github.com/VijayAdithyaBK</a></p>
 ![Visitor Count](https://profile-counter.glitch.me/{VijayAdithyaBK}/count.svg)
+<div align="center">
+  <p><img  src="https://profile-counter.glitch.me/{VijayAdithyaBK}/count.svg" alt="profile visits" /></p>
+</div>
 
 <div align="center">
   <p align="center">
