@@ -1,5 +1,3 @@
-<link href="https://fonts.googleapis.com/css2?family=Harmond+Free+Display&display=swap" rel="stylesheet">
-
 <div align="center">
   <h1 style="font-family: 'Harmond Free Display', sans-serif;">Vijay Adithya B K</h1>
   <p style="font-family: 'Harmond Free Display', sans-serif;">🚀 JavaScript Developer | 🎮 Gaming Enthusiast<br>
@@ -19,7 +17,6 @@
     </a>
   </p>
 </div>
-
 
  <img src="https://komarev.com/ghpvc/?username=vijayadithyabk&label=Profile%20views&color=0e75b6&style=flat" alt="vijayadithyabk" /><br>
 <p>🌱 I’m currently learning SAP UI 5<br>
