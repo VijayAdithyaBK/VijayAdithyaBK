@@ -57,8 +57,8 @@
 
 <div align="center">
   <p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=vijayadithyabk&show_icons=true&locale=en&layout=compact" alt="vijayadithyabk" /></p>
-<p><img  src="https://github-readme-stats.vercel.app/api?username=vijayadithyabk&show_icons=true&locale=en" alt="vijayadithyabk" /></p>
-<p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=vijayadithyabk&" alt="vijayadithyabk" /></p>
+  <p><img  src="https://github-readme-stats.vercel.app/api?username=vijayadithyabk&show_icons=true&locale=en" alt="vijayadithyabk" /></p>
+  <p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=vijayadithyabk&" alt="vijayadithyabk" /></p>
 </div>
 
 
@@ -68,8 +68,5 @@
   </a>
 </div>
 
-![Github Stats](https://github-readme-stats.vercel.app/api/top-langs?username=vijayadithyabk&show_icons=true&locale=en&layout=compact)
-![Top Langs](https://github-readme-stats.vercel.app/api?username=vijayadithyabk&show_icons=true&locale=en)
-![Status](https://github-readme-streak-stats.herokuapp.com/?user=vijayadithyabk&)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=vijayadithyabk.vijayadithyabk)
