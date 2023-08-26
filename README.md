@@ -57,6 +57,16 @@
   <!-- Add more project buttons here -->
 </div><br>
 
+<table>
+<tr>
+<td><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=vijayadithyabk&show_icons=true&locale=en&layout=compact" alt="vijayadithyabk" /></td>
+<td><img  src="https://github-readme-stats.vercel.app/api?username=vijayadithyabk&show_icons=true&locale=en" alt="vijayadithyabk" /></td>
+</tr>
+<tr>
+<td><img  src="https://github-readme-streak-stats.herokuapp.com/?user=vijayadithyabk&" alt="vijayadithyabk" /></td>
+<td><img align="" width="" alt="🦑" src="/nichijou-anime-brasil (1).gif"></td>
+</tr>
+</table>
 
 <div align="center">
   <p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=vijayadithyabk&show_icons=true&locale=en&layout=compact" alt="vijayadithyabk" /></p>
