@@ -10,12 +10,15 @@
 </p>
 </div>
 
- <img src="https://komarev.com/ghpvc/?username=vijayadithyabk&label=Profile%20views&color=0e75b6&style=flat" alt="vijayadithyabk" /><br>
+<img src="https://komarev.com/ghpvc/?username=vijayadithyabk&label=Profile%20views&color=0e75b6&style=flat" alt="vijayadithyabk" /><br>
+<div align="center">
+  <p><img  src="https://komarev.com/ghpvc/?username=vijayadithyabk&label=Profile%20views&color=0e75b6&style=flat" alt="profile visits" /></p>
+</div>
+
 <p>🌱 I’m currently learning SAP UI 5<br>
 👨‍💻 All of my projects are available at <a href="https://github.com/VijayAdithyaBK" target="blank">github.com/VijayAdithyaBK</a></p>
-![Visitor Count](https://profile-counter.glitch.me/{VijayAdithyaBK}/count.svg)
 <div align="center">
-  <p><img  src="https://profile-counter.glitch.me/{VijayAdithyaBK}/count.svg" alt="profile visits" /></p>
+  <p>Profile visits<img  src="https://profile-counter.glitch.me/{VijayAdithyaBK}/count.svg" alt="profile visits" /></p>
 </div>
 
 <div align="center">
