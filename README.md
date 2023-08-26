@@ -1,78 +1,23 @@
-<div align="center">
-  <img src="https://your-image-url.com/your-image.png" alt="Vijay Adithya B K" width="200px">
-  <h1>Vijay Adithya B K</h1>
-  <p>JavaScript Developer | Bengaluru, India</p>
-</div>
+<h1 align="center">Hi 👋, I'm Vijay Adithya B K</h1>
+<h3 align="center">A passionate and a flexible frontend developer.</h3>
 
-## 📝 Summary
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vijayadithyabk&label=Profile%20views&color=0e75b6&style=flat" alt="vijayadithyabk" /> </p>
 
-I'm an adaptable JavaScript Developer with a love for gaming. When I'm not coding, I'm immersed in movies and novels. My strong analytical skills drive effective testing of new components and improvements to existing modules. I've crafted internal team websites, conducted testing, and offered training. My commitment to learning fuels my growth.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vijayadithyabk" alt="vijayadithyabk" /></a> </p>
 
-## 🎓 Education
+- 🌱 I’m currently learning **SAP UI 5**
 
-**Bachelor of Engineering, Information Science**<br>
-Dayananda Sagar Academy of Technology and Management, Bangalore<br>
-CGPA: 7.75 / 10.00<br>
-2017 - 2021
+- 👨‍💻 All of my projects are available at [https://github.com/VijayAdithyaBK](https://github.com/VijayAdithyaBK)
 
-## 🚀 Skills
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-Angular, JavaScript, React.js, Ionic Framework, Git, Jira, SQL, MySQL, Shell Scripting, C++, Technical Documentation, Agile
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-## 💼 Experience
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vijayadithyabk&show_icons=true&locale=en&layout=compact" alt="vijayadithyabk" /></p>
 
-**Custom Software Engineering Analyst**<br>
-Accenture | Dec 2022 - Present
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vijayadithyabk&show_icons=true&locale=en" alt="vijayadithyabk" /></p>
 
-- Develop UI components using Angular and React.js.
-- Create user-friendly authentication components.
-- Craft interactive file upload and notification modules.
-- Build search, multi-select dropdown, and alert components.
-- Constructed a real estate property listings website.
-- Collaborated cross-functionally for timely project delivery.
-
-**Application Development Associate**<br>
-Accenture | Sep 2021 - Dec 2022
-
-- Developed internal CRUD website and conducted testing.
-- Ensured user acceptance through meticulous testing.
-- Trained and mentored peers, monitoring their progress.
-- Designed a report-generating website for seamless navigation.
-- Created data visualization, validation, and pagination components.
-- Managed Sprint Demo/Review meetings and documented projects.
-
-## 🌟 Projects
-
-**Angular Portfolio**<br>
-Elegant and dynamic portfolio website showcasing talent and expertise.
-[Visit](https://vijayadithyabk.github.io/AngularPortfolio/home)
-
-**Movie Ticket Booking Website**<br>
-Streamlined movie ticket booking with admin management.
-[Visit](https://your-movie-ticket-website.com)
-
-**In-Sure**<br>
-Material-designed insurance policy selection and claiming.
-[Visit](https://vijayadithyabk.github.io/Insure/)
-
-**Colors-Palletes**<br>
-Generate vibrant color palettes for creative inspiration.
-[Visit](https://vijayadithyabk.github.io/Colors-Palletes/)
-
-**Weather App**<br>
-Simple weather app built using Angular.
-[Visit](https://github.com/VijayAdithyaBK/WeatherApp)
-
-## 📚 Certifications
-
-- Modern JavaScript: ES6 Basics - Coursera
-- Introduction to Bash Shell Scripting - Coursera
-- Command Line in Linux - Coursera
-- AWS Certified Cloud Practitioner - Amazon Web Services (AWS)
-- Jira Fundamentals Badge - Atlassian
-- Google Analytics Individual Qualification - Google
-
-<div align="center">
-  <a href="mailto:vijayadithyabk@gmail.com"><img src="https://img.shields.io/badge/Email-vijayadithyabk%40gmail.com-red?style=for-the-badge&logo=gmail" alt="Email"></a>
-  <a href="https://linkedin.com/in/vijayadithyabk"><img src="https://img.shields.io/badge/LinkedIn-in%2Fvijayadithyabk-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vijayadithyabk&" alt="vijayadithyabk" /></p>
