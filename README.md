@@ -1,7 +1,5 @@
-<img src="https://github.com/VijayAdithyaBK/VijayAdithyaBK/blob/main/header.png" alt="banner that says Sarah hart Landolt - software developer, artist, designer">
-
 <div align="center">
-  <h1>Vijay Adithya B K</h1>
+  <img src="https://github.com/VijayAdithyaBK/VijayAdithyaBK/blob/main/header.png" alt="banner that says Sarah hart Landolt - software developer, artist, designer">
   <p>🚀 JavaScript Developer | 🎮 Gaming Enthusiast<br>
     A passionate frontend developer, and a flexible learner.</p>
     <p align="center">
