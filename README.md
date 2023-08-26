@@ -26,7 +26,7 @@
 ## 🌌 Featured Constellations
 <div align="center">
   <a href="https://vijayadithyabk.github.io/AngularPortfolio/home">
-    <img src="https://img.shields.io/badge/Angular%20Portfolio-Explore-ff69b4?style=for-the-badge" alt="Angular Portfolio">
+    <img src="https://img.shields.io/badge/Angular%20Portfolio-Explore🚀-ff69b4?style=for-the-badge" alt="Angular Portfolio">
   </a>
   <a href="https://vijayadithyabk.github.io/Insure/">
     <img src="https://img.shields.io/badge/In--Sure%20Portal-Launch-brightgreen?style=for-the-badge" alt="In-Sure Portal">
@@ -58,7 +58,7 @@
   <a href
 **Angular Portfolio**<br>
 Elegant and dynamic portfolio orbiting in the digital cosmos.
-🚀 [Explore](https://vijayadithyabk.github.io/AngularPortfolio/home)
+ [Explore](https://vijayadithyabk.github.io/AngularPortfolio/home)
 
 **In-Sure Portal**<br>
 Material-designed insurance cosmos; claims through stardust.
