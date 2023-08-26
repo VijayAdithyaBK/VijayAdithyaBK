@@ -14,7 +14,7 @@
 </p>
 
 
-<p>🌱 I’m currently learning **SAP UI 5**<br>
+<p>🌱 I’m currently learning SAP UI 5<br>
 👨‍💻 All of my projects are available at [https://github.com/VijayAdithyaBK](https://github.com/VijayAdithyaBK)</p>
 
 ## 🛸 Languages and Tools
@@ -44,14 +44,6 @@ Generate color palettes like cosmic rays for design odysseys.
 Forecasting celestial conditions with an Angular telescope.
 🌦️ [View](https://github.com/VijayAdithyaBK/WeatherApp)
 
-## 🪐 Certifications
-
-- 🌟 Modern JavaScript: ES6 Basics - Coursera
-- 🌟 Introduction to Bash Shell Scripting - Coursera
-- 🌟 Command Line in Linux - Coursera
-- 🌟 AWS Certified Cloud Practitioner - AWS
-- 🌟 Jira Fundamentals Badge - Atlassian
-- 🌟 Google Analytics Individual Qualification - Google
 
 <div align="center">
   <a href="mailto:vijayadithyabk@gmail.com"><img src="https://img.shields.io/badge/Email-vijayadithyabk%40gmail.com-red?style=for-the-badge&logo=gmail" alt="Email"></a>
