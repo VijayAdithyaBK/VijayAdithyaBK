@@ -1,21 +1,13 @@
 <div align="center">
-  <h1 style="font-family: 'Helvetica Neue', sans-serif;">Vijay Adithya B K</h1>
-  <p style="font-family: 'Arial', sans-serif;">🚀 JavaScript Developer | 🎮 Gaming Enthusiast<br>
-    A passionate frontend developer and a flexible learner.</p>
-  <p align="center">
-    <a href="https://linkedin.com/in/vijayadithyabk" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vijayadithyabk" height="30" width="40" />
-    </a>
-    <a href="https://medium.com/@criesin.90days" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@criesin.90days" height="30" width="40" />
-    </a>
-    <a href="https://www.hackerrank.com/vijayadithyabk" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vijayadithyabk" height="30" width="40" />
-    </a>
-    <a href="https://www.leetcode.com/vijayadithyabk" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vijayadithyabk" height="30" width="40" />
-    </a>
-  </p>
+  <h1>Vijay Adithya B K</h1>
+  <p>🚀 JavaScript Developer | 🎮 Gaming Enthusiast<br>
+    A passionate frontend developer, and a flexible learner.</p>
+    <p align="center">
+  <a href="https://linkedin.com/in/vijayadithyabk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vijayadithyabk" height="30" width="40" /></a>
+  <a href="https://medium.com/@criesin.90days" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@criesin.90days" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/vijayadithyabk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vijayadithyabk" height="30" width="40" /></a>
+  <a href="https://www.leetcode.com/vijayadithyabk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vijayadithyabk" height="30" width="40" /></a>
+</p>
 </div>
 
  <img src="https://komarev.com/ghpvc/?username=vijayadithyabk&label=Profile%20views&color=0e75b6&style=flat" alt="vijayadithyabk" /><br>
