@@ -24,7 +24,7 @@
   </p>
 </div>
 
-<samp>## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Featured Constellations</samp>
+<h2><samp><img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Featured Constellations</samp></h2>
 <div align="center">
   <a href="https://vijayadithyabk.github.io/AngularPortfolio/home">
     <img src="https://img.shields.io/badge/Angular%20Portfolio-Explore🪐-ff69b4?style=for-the-badge" alt="Angular Portfolio">
