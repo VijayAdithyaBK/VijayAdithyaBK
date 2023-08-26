@@ -1,27 +1,76 @@
+<div align="center">
+  <img src="https://your-image-url.com/your-image.png" alt="Vijay Adithya B K" width="200px">
+  <h1>Vijay Adithya B K</h1>
+  <p>🚀 JavaScript Developer | 🎮 Gaming Enthusiast<br>
+  📍 Bengaluru, India | 📧 vijayadithyabk@gmail.com | 👥 [LinkedIn](https://linkedin.com/in/vijayadithyabk)</p>
+</div>
 
-## 🌐 Socials:
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Criesin.90Days) 
+## 👋 Greetings, fellow space traveler! 
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=VijayAdithyaBK&theme=swift&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=VijayAdithyaBK&theme=swift&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=VijayAdithyaBK&theme=swift&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Welcome to my cosmic codebase. I'm a highly adaptable JavaScript Developer with a passion for gaming, movies, and novels. I wield my analytical skills to craft, test, and enhance digital galaxies. I've even ventured into crafting a few constellations of my own.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=VijayAdithyaBK&theme=oldie&no-frame=false&no-bg=false&margin-w=4)
+## 🚀 Experience Warp Drive
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+**Custom Software Engineering Analyst**<br>
+Accenture | Dec 2022 - Present
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=VijayAdithyaBK&limit=5&theme=matrix&combine_all_yearly_contributions=true)
+- Angular, React.js, and beyond: UI component creation.
+- Warp-speed authentication: User-friendly login systems.
+- Quantum upload module: File uploads with progress indicators.
+- Cosmic notifications: Customizable alerts with dismissal options.
+- Multiverse search: Data filtering and searching components.
+- Real Estate Odyssey: Angular portal for showcasing stellar properties.
+- Universal support: Client interaction and issue resolution.
+- Collaborative Starship: Cross-functional project deliveries.
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+**Application Development Associate**<br>
+Accenture | Sep 2021 - Dec 2022
 
----
-[![](https://visitcount.itsvg.in/api?id=VijayAdithyaBK&icon=0&color=4)](https://visitcount.itsvg.in)
+- Galactic CRUD website: Internal system with manual testing.
+- Stellar UAT: Ensuring celestial user acceptance.
+- Peer mentor: Guiding and growing fledgling stars.
+- Report Nebula: Crafting user-friendly report-generating portals.
+- Data Constellations: Data visualization, validation, and pagination.
+- Agile Supernova: Sprint Demo/Review mastery and project chronicles.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌌 Featured Constellations
+
+**Angular Portfolio**<br>
+Elegant and dynamic portfolio orbiting in the digital cosmos.
+🚀 [Explore](https://vijayadithyabk.github.io/AngularPortfolio/home)
+
+**Movie Ticket Nexus**<br>
+Book tickets across the multiverse; admin starbases included.
+🌠 [Visit](https://your-movie-ticket-website.com)
+
+**In-Sure Portal**<br>
+Material-designed insurance cosmos; claims through stardust.
+🪐 [Launch](https://vijayadithyabk.github.io/Insure/)
+
+**Colors-Palletes Nebula**<br>
+Generate color palettes like cosmic rays for design odysseys.
+💫 [Experience](https://vijayadithyabk.github.io/Colors-Palletes/)
+
+**Weather Interstellar App**<br>
+Forecasting celestial conditions with an Angular telescope.
+🌦️ [View](https://github.com/VijayAdithyaBK/WeatherApp)
+
+## 🛸 Skills Constellation
+
+🌌 **Frontend:** Angular, React.js, Ionic Framework
+🪐 **Languages:** JavaScript, SQL, C++
+🚀 **Version Control:** Git
+📊 **Tools & Methodologies:** Jira, Agile, Shell Scripting
+
+## 🪐 Certifications
+
+- 🌟 Modern JavaScript: ES6 Basics - Coursera
+- 🌟 Introduction to Bash Shell Scripting - Coursera
+- 🌟 Command Line in Linux - Coursera
+- 🌟 AWS Certified Cloud Practitioner - AWS
+- 🌟 Jira Fundamentals Badge - Atlassian
+- 🌟 Google Analytics Individual Qualification - Google
+
+<div align="center">
+  <a href="mailto:vijayadithyabk@gmail.com"><img src="https://img.shields.io/badge/Email-vijayadithyabk%40gmail.com-red?style=for-the-badge&logo=gmail" alt="Email"></a>
+</div>
