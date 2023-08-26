@@ -22,15 +22,19 @@
   </p>
 </div>
 
+
+<div align="center">
+  <p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=vijayadithyabk&show_icons=true&locale=en&layout=compact" alt="vijayadithyabk" /></p>
+<p><img  src="https://github-readme-stats.vercel.app/api?username=vijayadithyabk&show_icons=true&locale=en" alt="vijayadithyabk" /></p>
+<p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=vijayadithyabk&" alt="vijayadithyabk" /></p>
+</div>
+
+
 ## 🌌 Featured Constellations
 
 **Angular Portfolio**<br>
 Elegant and dynamic portfolio orbiting in the digital cosmos.
 🚀 [Explore](https://vijayadithyabk.github.io/AngularPortfolio/home)
-
-**Movie Ticket Nexus**<br>
-Book tickets across the multiverse; admin starbases included.
-🌠 [Visit](https://your-movie-ticket-website.com)
 
 **In-Sure Portal**<br>
 Material-designed insurance cosmos; claims through stardust.
@@ -65,14 +69,9 @@ A simple Python-based Speech Assistant.
 🗣️ [Website / Repo](https://github.com/VijayAdithyaBK/speech_assistant)
 
 **Recognition of Human Actions**<br>
-🤖 Final year project using Deep Convolutional Neural Networks to recognize human actions.
+Final year project using Deep Convolutional Neural Networks to recognize human actions.
+🤖
 
-
-<div align="center">
-  <p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=vijayadithyabk&show_icons=true&locale=en&layout=compact" alt="vijayadithyabk" /></p>
-<p><img  src="https://github-readme-stats.vercel.app/api?username=vijayadithyabk&show_icons=true&locale=en" alt="vijayadithyabk" /></p>
-<p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=vijayadithyabk&" alt="vijayadithyabk" /></p>
-</div>
 
 <div align="center">
   <a href="mailto:vijayadithyabk@gmail.com">
