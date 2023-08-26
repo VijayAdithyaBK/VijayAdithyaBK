@@ -14,9 +14,8 @@
 </p>
 
 
-## 👋 Greetings, fellow space traveler! 
-
-Welcome to my cosmic codebase. I'm a highly adaptable JavaScript Developer with a passion for gaming, movies, and novels. I wield my analytical skills to craft, test, and enhance digital galaxies. I've even ventured into crafting a few constellations of my own.
+- 🌱 I’m currently learning **SAP UI 5**
+- 👨‍💻 All of my projects are available at [https://github.com/VijayAdithyaBK](https://github.com/VijayAdithyaBK)
 
 ### 🛸 Experience Warp Drive
 
