@@ -45,28 +45,28 @@ Forecasting celestial conditions with an Angular telescope.
 🌦️ [View](https://github.com/VijayAdithyaBK/WeatherApp)
 
 **Stock Price Data Forecasting using Exponential Smoothing**<br>
-- Project aimed to showcase the potential of exponential smoothing for stock price forecasting.
-- Website / Repo: [StockPriceForecasting](https://github.com/VijayAdithyaBK/StockPriceForecasting)
+📈 A project showcasing the potential of exponential smoothing for stock price forecasting.
+🔗 [Website / Repo](https://github.com/VijayAdithyaBK/StockPriceForecasting)
 
 **Daily Expense Tracker**<br>
-- Developed a dynamic daily expense tracker GUI.
-- Website / Repo: [DailyExpenseTracker](https://github.com/VijayAdithyaBK/DailyExpenseTracker)
+💰 Developed a dynamic daily expense tracker GUI.
+🔗 [Website / Repo](https://github.com/VijayAdithyaBK/DailyExpenseTracker)
 
 **Daily Python**<br>
-- A repository with multiple simple Python projects.
-- Website / Repo: [Daily-Python](https://github.com/VijayAdithyaBK/Daily-Python)
+🐍 A repository with multiple simple Python projects.
+🔗 [Website / Repo](https://github.com/VijayAdithyaBK/Daily-Python)
 
 **Voice Notes**<br>
-- Using Python Speech Recognition, write down notes by dictating.
-- Website / Repo: [voice_notes](https://github.com/VijayAdithyaBK/voice_notes)
+🎙️ Use Python Speech Recognition to dictate and write down notes.
+🔗 [Website / Repo](https://github.com/VijayAdithyaBK/voice_notes)
 
 **Speech Assistant**<br>
-- A simple Python-based Speech Assistant.
-- Website / Repo: [speech_assistant](https://github.com/VijayAdithyaBK/speech_assistant)
+🗣️ A simple Python-based Speech Assistant.
+🔗 [Website / Repo](https://github.com/VijayAdithyaBK/speech_assistant)
 
 **Recognition of Human Actions**<br>
-- Final year project to recognize human actions using Deep Convolutional Neural Networks.
-- Website / Repo: [HumanActionsRecognition](https://github.com/VijayAdithyaBK/HumanActionsRecognition)
+🤖 Final year project using Deep Convolutional Neural Networks to recognize human actions.
+🔗 [Website / Repo](https://github.com/VijayAdithyaBK/HumanActionsRecognition)
 
 
 <div align="center">
