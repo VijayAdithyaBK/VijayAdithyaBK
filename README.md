@@ -1,4 +1,4 @@
-[
+
 ## 🌐 Socials:
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Criesin.90Days) 
 
@@ -25,12 +25,3 @@
 [![](https://visitcount.itsvg.in/api?id=VijayAdithyaBK&icon=0&color=4)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=VijayAdithyaBK&icon=0&color=4)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-](https://visitcount.itsvg.in/api?id=VijayAdithyaBK&icon=0&color=4)https://visitcount.itsvg.in/api?id=VijayAdithyaBK&icon=0&color=4
