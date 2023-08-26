@@ -68,7 +68,8 @@
   </a>
 </div>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=vijayadithyabk&count_private=true&show_icons=true&include_all_commits=true)
+![Github Stats](https://github-readme-stats.vercel.app/api/top-langs?username=vijayadithyabk&show_icons=true&locale=en&layout=compact)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vijayadithyabk&hide=TeX&layout=compact)
+![Status](https://github-readme-streak-stats.herokuapp.com/?user=vijayadithyabk&)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=vijayadithyabk.vijayadithyabk)
