@@ -16,7 +16,10 @@
   <p><img src="https://komarev.com/ghpvc/?username=vijayadithyabk&label=Profile%20views&color=0e75b6&style=flat" alt="vijayadithyabk" /></p>
 </div>
 <br>
-[![](https://visitcount.itsvg.in/api?id=VijayAdithyabk&icon=3&color=1)](https://visitcount.itsvg.in)
+<div align="center">
+  <p><img src="https://visitcount.itsvg.in/api?id=VijayAdithyabk&icon=3&color=1)](https://visitcount.itsvg.in" alt="vijayadithyabk" /></p>
+</div>
+<br>
 
 
 <!---
