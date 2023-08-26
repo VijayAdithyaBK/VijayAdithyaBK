@@ -26,75 +26,34 @@
 ## 🌌 Featured Constellations
 <div align="center">
   <a href="https://vijayadithyabk.github.io/AngularPortfolio/home">
-    <img src="https://img.shields.io/badge/Angular%20Portfolio-Explore🚀-ff69b4?style=for-the-badge" alt="Angular Portfolio">
+    <img src="https://img.shields.io/badge/Angular%20Portfolio-Explore🪐-ff69b4?style=for-the-badge" alt="Angular Portfolio">
   </a>
   <a href="https://vijayadithyabk.github.io/Insure/">
-    <img src="https://img.shields.io/badge/In--Sure%20Portal-Launch-brightgreen?style=for-the-badge" alt="In-Sure Portal">
+    <img src="https://img.shields.io/badge/In--Sure%20Portal-Launch🚀-brightgreen?style=for-the-badge" alt="In-Sure Portal">
   </a>
   <a href="https://vijayadithyabk.github.io/Colors-Palletes/">
-    <img src="https://img.shields.io/badge/Colors--Palettes%20Nebula-Experience-blue?style=for-the-badge" alt="Colors-Palettes Nebula">
+    <img src="https://img.shields.io/badge/Colors--Palettes%20Nebula-Experience💫-blue?style=for-the-badge" alt="Colors-Palettes Nebula">
   </a>
   <a href="https://vijayadithyabk.github.io/WeatherApp">
-    <img src="https://img.shields.io/badge/Weather%20Interstellar%20App-View-9cf?style=for-the-badge" alt="Weather Interstellar App">
+    <img src="https://img.shields.io/badge/Weather%20Interstellar%20App-View🌦️-9cf?style=for-the-badge" alt="Weather Interstellar App">
   </a>
   <a href="https://github.com/VijayAdithyaBK/StockPriceForecasting">
-    <img src="https://img.shields.io/badge/Stock%20Price%20Forecasting-Discover-ffd700?style=for-the-badge" alt="Stock Price Forecasting using Exponential Smoothing">
+    <img src="https://img.shields.io/badge/Stock%20Price%20Forecasting-Discover📈-ffd700?style=for-the-badge" alt="Stock Price Forecasting using Exponential Smoothing">
   </a>
   <a href="https://github.com/VijayAdithyaBK/DailyExpenseTracker">
-    <img src="https://img.shields.io/badge/Daily%20Expense%20Tracker-Check%20It%20Out-orange?style=for-the-badge" alt="Daily Expense Tracker">
+    <img src="https://img.shields.io/badge/Daily%20Expense%20Tracker-Check%20It%20Out🧾-orange?style=for-the-badge" alt="Daily Expense Tracker">
   </a>
   <a href="https://github.com/VijayAdithyaBK/Daily-Python">
-    <img src="https://img.shields.io/badge/Daily%20Python-Explore%20Projects-green?style=for-the-badge" alt="Daily Python">
+    <img src="https://img.shields.io/badge/Daily%20Python-Explore%20Projects🐍-green?style=for-the-badge" alt="Daily Python">
   </a>
   <a href="https://github.com/VijayAdithyaBK/voice_notes">
-    <img src="https://img.shields.io/badge/Voice%20Notes-Take%20Notes-red?style=for-the-badge" alt="Voice Notes">
+    <img src="https://img.shields.io/badge/Voice%20Notes-Take%20Notes🎙️-red?style=for-the-badge" alt="Voice Notes">
   </a>
   <a href="https://github.com/VijayAdithyaBK/speech_assistant">
-    <img src="https://img.shields.io/badge/Speech%20Assistant-Talk%20to%20Me-purple?style=for-the-badge" alt="Speech Assistant">
+    <img src="https://img.shields.io/badge/Speech%20Assistant-Talk%20to%20Me🗣️-purple?style=for-the-badge" alt="Speech Assistant">
   </a>
   <!-- Add more project buttons here -->
 </div>
-  
-  <a href
-**Angular Portfolio**<br>
-Elegant and dynamic portfolio orbiting in the digital cosmos.
- [Explore](https://vijayadithyabk.github.io/AngularPortfolio/home)
-
-**In-Sure Portal**<br>
-Material-designed insurance cosmos; claims through stardust.
-🪐 [Launch](https://vijayadithyabk.github.io/Insure/)
-
-**Colors-Palletes Nebula**<br>
-Generate color palettes like cosmic rays for design odysseys.
-💫 [Experience](https://vijayadithyabk.github.io/Colors-Palletes/)
-
-**Weather Interstellar App**<br>
-Forecasting celestial conditions with an Angular telescope.
-🌦️ [View](https://github.com/VijayAdithyaBK/WeatherApp)
-
-**Stock Price Data Forecasting using Exponential Smoothing**<br>
-A project showcasing the potential of exponential smoothing for stock price forecasting.
-📈 [Decipher](https://github.com/VijayAdithyaBK/StockPriceForecasting)
-
-**Daily Expense Tracker**<br>
-Developed a dynamic daily expense tracker GUI.
-🧾 [Add Expense](https://github.com/VijayAdithyaBK/DailyExpenseTracker)
-
-**Daily Python**<br>
-A repository with multiple simple Python projects.
-🐍 [Check](https://github.com/VijayAdithyaBK/Daily-Python)
-
-**Voice Notes**<br>
-Use Python Speech Recognition to dictate and write down notes.
-🎙️ [Website / Repo](https://github.com/VijayAdithyaBK/voice_notes)
-
-**Speech Assistant**<br>
-A simple Python-based Speech Assistant.
-🗣️ [Website / Repo](https://github.com/VijayAdithyaBK/speech_assistant)
-
-**Recognition of Human Actions**<br>
-Final year project using Deep Convolutional Neural Networks to recognize human actions.
-🤖
 
 
 <div align="center">
