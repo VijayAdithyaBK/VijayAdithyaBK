@@ -1,8 +1,7 @@
 <div align="center">
   <img src="https://github.com/VijayAdithyaBK/VijayAdithyaBK/blob/main/header.png" alt="banner that says I'm Vijay Adithya B K">
   <h4><samp>Experienced data analyst proficient in SQL, scripting, and database management, adept at delivering efficient solutions for complex tasks.</samp></h4>
-  <p><samp>🚀 Data Analyst | Open for Hiring<br>
-    A passionate frontend developer, and a flexible learner.</samp></p>
+  <p><samp>🚀 Data Analyst | Open for Hiring</samp></p>
   <p>
     <a href="mailto:vijayadithyabk@gmail.com">
       <img src="https://img.shields.io/badge/Email-vijayadithyabk%40gmail.com-red?style=for-the-badge&logo=gmail" alt="Email">
