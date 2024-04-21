@@ -27,7 +27,7 @@
 
 <div align="center">
   <p align="center">
-    <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" alt="Java" height="30">
+    <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=java&logoColor=white" alt="Java" height="30">
     <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" height="30">
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS3" height="30">
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML5" height="30">
