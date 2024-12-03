@@ -28,7 +28,7 @@
   </p>
 </div>
 
-<h1><samp>Featured</samp></h1>
+<!--<h1><samp>Featured</samp></h1>
 <div align="center">
   <a href="https://vijayadithyabk.github.io/AngularPortfolio/home">
     <img src="https://img.shields.io/badge/Angular%20Portfolio-Explore🪐-ff69b4?style=for-the-badge" alt="Angular Portfolio">
@@ -48,7 +48,7 @@
   <a href="https://github.com/VijayAdithyaBK/voice_notes">
     <img src="https://img.shields.io/badge/Voice%20Notes-Take%20Notes🎙️-red?style=for-the-badge" alt="Voice Notes">
   </a>
-</div>
+</div>-->
 
 <div align="center">
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=VijayAdithyabk&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="vijayadithyabk" />
