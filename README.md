@@ -51,6 +51,30 @@
 </div>-->
 
 <div align="center">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=VijayAdithyabk&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="vijayadithyabk" />
-  <img  src="https://github-readme-stats.vercel.app/api?username=VijayAdithyabk&theme=default&hide_border=true&include_all_commits=true&count_private=true" alt="vijayadithyabk" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=VijayAdithyabk&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="vijayadithyabk" height="200vh"/>
+  <img  src="https://github-readme-stats.vercel.app/api?username=VijayAdithyabk&theme=default&hide_border=true&include_all_commits=true&count_private=true" alt="vijayadithyabk" height="200vh"/>
 </div>
+
+<div>
+   <samp><h1>Project Directory</h1>
+    <p>Explore my GitHub projects, each showcasing my skills in data analysis, web development, and software engineering.</p>
+    <h2>Data Analysis</h2>
+    <ul>
+        <li><a href="https://github.com/VijayAdithyaBK/Cricket_Data_Analysis" target="_blank"><strong>Cricket Data Analysis</strong></a><br> Data-driven insights into cricket statistics using advanced analytical techniques.</li>
+        <li><a href="https://github.com/VijayAdithyaBK/Retail_Sales" target="_blank"><strong>Retail Sales Analysis</strong></a><br> Analysis of retail sales trends to derive actionable business insights.</li>
+        <li><a href="https://github.com/VijayAdithyaBK/Pizza_Runner_Case_Study" target="_blank"><strong>Pizza Runner Case Study</strong></a><br> A comprehensive case study analyzing delivery metrics and operational efficiency.</li>
+        <li><a href="https://github.com/VijayAdithyaBK/Dannys_Diner_Case_Study" target="_blank"><strong>Danny's Diner Case Study</strong></a><br> SQL-based case study focused on customer segmentation and diner performance.</li>
+        <li><a href="https://github.com/VijayAdithyaBK/Library-System-Management" target="_blank"><strong>Library System Management</strong></a><br> A library management application for efficient book tracking and user management.</li>
+        <li><a href="https://github.com/VijayAdithyaBK/Auto_MPG_Dataset_EDA" target="_blank"><strong>Auto MPG EDA</strong></a><br> Exploratory data analysis (EDA) of the Auto_MPG dataset to understand city-cycle fuel consumption in miles per gallon (MPG) in relation to various attributes.</li>
+    </ul>
+    <h2>Software Development</h2>
+    <ul>
+        <li><a href="https://github.com/VijayAdithyaBK/StockPriceForecasting" target="_blank"><strong>Stock Price Forecasting</strong></a><br> A machine learning project using exponential smoothing to forecast stock prices.</li>
+        <li><a href="https://github.com/VijayAdithyaBK/SudokuBookGenerator" target="_blank"><strong>Sudoku Book Generator</strong></a><br> Generates Sudoku puzzles for various difficulty levels and formats.</li>
+        <li><a href="https://github.com/VijayAdithyaBK/workout_tracker_app" target="_blank"><strong>Workout Tracker App</strong></a><br> A fitness application for tracking workouts and progress.</li>
+        <li><a href="https://github.com/VijayAdithyaBK/DailyExpenseTracker" target="_blank"><strong>Daily Expense Tracker</strong></a><br> A user-friendly app for tracking and managing daily expenses.</li>
+        <li><a href="https://github.com/VijayAdithyaBK/speech_assistant" target="_blank"><strong>Speech Assistant</strong></a><br> A voice-controlled assistant for performing basic tasks.</li>
+        <li><a href="https://github.com/VijayAdithyaBK/voice_notes" target="_blank"><strong>Voice Notes</strong></a><br> A note-taking application with voice recognition capabilities.</li>
+    </ul></samp>
+</div>
+   
