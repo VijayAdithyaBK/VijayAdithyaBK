@@ -12,6 +12,7 @@
     <a href="https://www.leetcode.com/vijayadithyabk" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vijayadithyabk" height="30" width="40" /></a>
     <a href="https://medium.com/@criesin.90days" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@criesin.90days" height="30" width="40" /></a>
     <a href="https://www.hackerrank.com/vijayadithyabk" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vijayadithyabk" height="30" width="40" /></a>
+    <a href="https://www.kaggle.com/vijayadithyabk" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vijayadithyabk" height="30" width="40" /></a>
   </p>
 </div>
 
