@@ -57,7 +57,7 @@
 
 <div>
    <samp><h1>Project Directory</h1>
-    <p>Explore my GitHub projects, each showcasing my skills in data analysis, web development, and software engineering.</p>
+<!--     <p>Explore my GitHub projects, each showcasing my skills in data analysis, web development, and software engineering.</p> -->
     <h2>Data Analysis</h2>
     <ul>
         <li><a href="https://github.com/VijayAdithyaBK/Cricket_Data_Analysis" target="_blank"><strong>Cricket Data Analysis</strong></a><br> Data-driven insights into cricket statistics using advanced analytical techniques.</li>
