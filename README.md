@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://github.com/VijayAdithyaBK/VijayAdithyaBK/blob/main/header.png" alt="banner that says I'm Vijay Adithya B K">
   <h4><samp>Detail-oriented Custom Software Engineering Analyst with expertise in data analysis, migration, and visualization, proficient in SQL, Python, and Power BI.</samp></h4>
-  <p><samp>🚀 Data Analyst | Open for Hiring</samp></p>
+  <p><samp>🚀 Data Analyst | Open for Hiring | <a href="https://vijayadithyabk.framer.website/" target="blank">Portfolio</a></samp></p>
   <p>
     <a href="mailto:vijayadithyabk@outlook.com">
       <img src="https://img.shields.io/badge/Email-vijayadithyabk%40outlook.com-red?style=for-the-badge&logo=gmail" alt="Email">
