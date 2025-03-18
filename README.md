@@ -18,14 +18,15 @@
 
 <div align="center">
   <p>
-    <img src="https://img.shields.io/badge/sql-%234479A1.svg?style=for-the-badge&logo=sql&logoColor=white" alt="SQL" height="30">
-    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" height="30">
-    <img src="https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" height="30">
-    <img src="https://img.shields.io/badge/power_bi-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" height="30">
+    <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" alt="Node.JS" height="30">
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" alt="SQL" height="30">
+    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" height="30">
+    <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white" alt="ReactJS" height="30">
+    <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git" height="30">
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" alt="Kubernetes" height="30">
 <!--     <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" height="30">
-    <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" height="30">
-    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" height="30"> -->
-    <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" height="30">
+    <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" height="30"> -->
+
   </p>
 </div>
 
