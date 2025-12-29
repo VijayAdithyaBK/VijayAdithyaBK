@@ -1,134 +1,118 @@
-# 👋 Hi, I'm Vijay Adithya B K
+# Hi, I'm Vijay Adithya B K 👋
 
-## 🎯 Data Engineer | Full-Stack Developer | Continuous Learner
+**Data Engineer | Full-Stack Developer**
 
-I'm a passionate **Data Engineer** specializing in building robust data pipelines, performing advanced analytics, and creating data-driven solutions. With hands-on experience in **Python**, **SQL**, **PostgreSQL**, and modern data engineering tools, I transform raw data into actionable insights.
+I specialize in building data pipelines, performing advanced analytics, and creating full-stack applications. Passionate about transforming data into actionable insights and crafting solutions that solve real-world problems.
 
-Beyond data engineering, I'm a **versatile builder** who loves crafting full-stack applications, experimenting with new technologies, and solving real-world problems through code.
-
----
-
-## 🔧 Core Technical Stack
-
-### Data Engineering & Analytics
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-### Development & Tools
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=todoist&logoColor=white)](https://vijayadithyabk.framer.website/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vijayadithyabk/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@criesin.90days)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vijayadithyabk@gmail.com)
 
 ---
 
-## 📊 What I Do
+## � Tech Stack
 
-### 🎲 Data Engineering
-- **ETL Pipeline Development**: Designing and implementing scalable data pipelines
-- **Database Design & Optimization**: Building efficient schemas and complex SQL queries
-- **Data Analysis & Visualization**: Extracting insights from large datasets
-- **Statistical Modeling**: Applying advanced analytics for predictive insights
-
-### 💻 Software Development
-- **Full-Stack Web Applications**: Building end-to-end solutions with modern frameworks
-- **API Development**: Creating robust RESTful APIs with FastAPI and Node.js
-- **Desktop Applications**: Developing cross-platform solutions
-- **Browser Extensions**: Crafting productivity tools for Chrome & Firefox
+**Data & Analytics:** Python • SQL • PostgreSQL • Pandas • NumPy  
+**Development:** Node.js • React • FastAPI • JavaScript • TypeScript  
+**Tools:** Git • Docker • Kubernetes
 
 ---
 
-## 🚀 Featured Data Engineering Projects
+## � Data Engineering Projects
 
-### 📈 [Cricket Data Analysis](https://github.com/VijayAdithyaBK/Cricket_Data_Analysis)
-Advanced analytics on cricket statistics using Python and Pandas. Performed exploratory data analysis, feature engineering, and statistical modeling to derive player insights and match predictions.
-
-**Tech Stack**: Python, Pandas, NumPy, Matplotlib, Seaborn
-
-### 🛒 [Retail Sales Analysis](https://github.com/VijayAdithyaBK/Retail_Sales)
-Comprehensive analysis of retail sales trends to identify customer patterns, seasonal variations, and revenue drivers. Built interactive dashboards for stakeholder presentations.
-
-**Tech Stack**: Python, SQL, Pandas, Data Visualization
-
-### 🍕 [Pizza Runner Case Study](https://github.com/VijayAdithyaBK/Pizza_Runner_Case_Study)
-End-to-end data analysis project examining delivery metrics, customer behavior, and operational efficiency for a pizza delivery service using advanced SQL techniques.
-
-**Tech Stack**: PostgreSQL, Complex SQL Queries, CTEs, Window Functions
-
-### 🍽️ [Danny's Diner Case Study](https://github.com/VijayAdithyaBK/Dannys_Diner_Case_Study)
-SQL-focused case study analyzing customer segmentation, purchasing patterns, and loyalty program effectiveness with sophisticated query optimization.
-
-**Tech Stack**: PostgreSQL, SQL Analytics, Data Modeling
-
-### 📚 [Library System Management](https://github.com/VijayAdithyaBK/Library-System-Management)
-Full-featured library management system with database design, CRUD operations, and reporting capabilities.
-
-**Tech Stack**: Python, PostgreSQL, Database Design
-
-### 🚗 [Auto MPG Dataset EDA](https://github.com/VijayAdithyaBK/Auto_MPG_Dataset_EDA)
-Exploratory data analysis examining fuel consumption patterns and vehicle characteristics. Applied statistical techniques and regression analysis for MPG prediction.
-
-**Tech Stack**: Python, Pandas, Scikit-learn, Statistical Analysis
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [Cricket Data Analysis](https://github.com/VijayAdithyaBK/Cricket_Data_Analysis) | Statistical analysis and insights from cricket data | Python, Pandas, NumPy |
+| [Retail Sales Analysis](https://github.com/VijayAdithyaBK/Retail_Sales) | Sales trend analysis and business intelligence | Python, SQL, Pandas |
+| [Pizza Runner Case Study](https://github.com/VijayAdithyaBK/Pizza_Runner_Case_Study) | Delivery metrics and operational efficiency analysis | PostgreSQL, SQL |
+| [Danny's Diner Case Study](https://github.com/VijayAdithyaBK/Dannys_Diner_Case_Study) | Customer segmentation and loyalty program analysis | PostgreSQL, SQL |
+| [Credit Card Expense Analysis](https://github.com/VijayAdithyaBK/Credit_Card_Expense_Analysis) | Expense pattern analysis and visualization | Python, Pandas |
+| [Weather & Restaurant Ratings](https://github.com/VijayAdithyaBK/Weather_Restaurant_Ratings) | Correlation analysis between weather and ratings | Python, Data Analysis |
+| [Library System Management](https://github.com/VijayAdithyaBK/Library-System-Management) | Full-featured library management system | Python, PostgreSQL |
+| [HR Database Design](https://github.com/VijayAdithyaBK/HR_Database_Design) | Enterprise HR database schema and queries | PostgreSQL, Database Design |
 
 ---
 
-## 💡 Full-Stack & Experimental Projects
+## � Full-Stack Applications
 
-### 🖥️ [GPU Runtime Demo](https://github.com/VijayAdithyaBK/gpu-runtime-demo)
-Exploring GPU-accelerated computing with TensorFlow and PyTorch. Benchmarking performance across different configurations.
-
-### 📝 [TidyMind AI](https://github.com/VijayAdithyaBK/tidymind-ai)
-AI-powered organization assistant using Google Gemini API to help declutter and organize spaces through image analysis.
-
-### 🎨 [Markdown Viewer](https://github.com/VijayAdithyaBK/maarkdown-viewer)
-Feature-rich markdown viewer browser extension with syntax highlighting and live preview.
-
-### 📊 [Digital Salary Compass](https://github.com/VijayAdithyaBK/Digital-Salary-Compass)
-Data-driven salary insights platform helping professionals understand compensation trends.
-
-### 🎯 [Jira Kanban Board](https://github.com/VijayAdithyaBK/jira-kanban-board)
-Custom Kanban board implementation with drag-and-drop, real-time updates, and Linear-style aesthetics.
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [TidyMind AI](https://github.com/VijayAdithyaBK/tidymind-ai) | AI-powered room organization assistant | React, Google Gemini API |
+| [Digital Salary Compass](https://github.com/VijayAdithyaBK/Digital-Salary-Compass) | Salary insights and compensation analytics | React, Data Visualization |
+| [GPU Runtime Demo](https://github.com/VijayAdithyaBK/gpu-runtime-demo) | GPU-accelerated computing benchmarks | TensorFlow, PyTorch |
+| [Jira Kanban Board](https://github.com/VijayAdithyaBK/jira-kanban-board) | Project management board with drag-and-drop | React, TypeScript |
+| [Office Haven](https://github.com/VijayAdithyaBK/Office-Haven) | Workspace management platform | Full-Stack |
+| [OutreachSpace](https://github.com/VijayAdithyaBK/outreachspace) | Communication and outreach platform | React, Node.js |
+| [Developed4U](https://github.com/VijayAdithyaBK/developed4u) | Custom development showcase | React |
+| [Online Code Editor](https://github.com/VijayAdithyaBK/OnlineCodeEditor) | Browser-based code editor | JavaScript, HTML, CSS |
+| [App Catalog](https://github.com/VijayAdithyaBK/my-app-catalog-main) | Application portfolio and catalog | React |
 
 ---
 
-## 🌱 Currently Learning & Exploring
+## 🛠️ Tools & Extensions
 
-- **Advanced Data Engineering**: Apache Spark, Airflow, Data Warehousing
-- **Cloud Platforms**: AWS (S3, Redshift, Lambda), Azure Data Services
-- **Machine Learning Engineering**: MLOps, Model Deployment, Feature Stores
-- **Real-Time Data Processing**: Kafka, Stream Processing
-- **Modern Data Stack**: dbt, Snowflake, Databricks
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [Maarkdown Viewer](https://github.com/VijayAdithyaBK/maarkdown-viewer) | Feature-rich markdown viewer extension | JavaScript, Chrome Extension |
+| [Text Reader](https://github.com/VijayAdithyaBK/text-reader) | Text-to-speech reader application | JavaScript |
+| [LumeRead](https://github.com/VijayAdithyaBK/lumeread) | Enhanced reading experience tool | JavaScript |
+| [TypeMaster](https://github.com/VijayAdithyaBK/typemaster) | Typing practice and speed improvement | JavaScript |
+| [Colorly](https://github.com/VijayAdithyaBK/colorly) | Advanced color palette generator | JavaScript |
+| [Colorly Lite](https://github.com/VijayAdithyaBK/colorly-lite) | Lightweight color tool | JavaScript |
+| [FormGenie](https://github.com/VijayAdithyaBK/formgenie) | Smart form autofill extension | JavaScript, Chrome Extension |
+| [Hotstar Ad Muter](https://github.com/VijayAdithyaBK/hotstar-ad-muter) | Auto-mute ads browser extension | JavaScript |
+| [Image2AsciiArt](https://github.com/VijayAdithyaBK/image2asciiart) | Convert images to ASCII art | Python |
+| [Convert2X](https://github.com/VijayAdithyaBK/convert2x) | Multi-format file converter | JavaScript |
+| [CSV2Spotify](https://github.com/VijayAdithyaBK/csv2spotify) | Import CSV playlists to Spotify | Python, Spotify API |
+| [Image Enhancer](https://github.com/VijayAdithyaBK/imageenhancer) | Image processing and enhancement | Python |
+| [Music Identifier](https://github.com/VijayAdithyaBK/music_identifier) | Audio recognition tool | Python |
+| [Simple Color Manipulator](https://github.com/VijayAdithyaBK/simple-color-manipulator) | Color manipulation utility | JavaScript |
 
 ---
 
-## 📫 Let's Connect
+## 🌐 Web Projects
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://vijayadithyabk.framer.website/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vijayadithyabk/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@criesin.90days)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/vijayadithyabk)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/vijayadithyabk/)
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [Developer Portfolio](https://github.com/VijayAdithyaBK/developer-portfolio) | Professional portfolio website | React |
+| [Portfolio Tailwind](https://github.com/VijayAdithyaBK/portfolio-tailwind-reactjs) | Modern portfolio with Tailwind CSS | React, Tailwind |
+| [The Final Portfolio](https://github.com/VijayAdithyaBK/the-final-portfolio) | Comprehensive portfolio site | HTML, CSS, JavaScript |
+| [Smart Playlist](https://github.com/VijayAdithyaBK/smart-playlist) | Intelligent music playlist generator | JavaScript |
 
 ---
 
-## 🎯 Open to Opportunities
+## 🚀 Other Projects
 
-I'm actively seeking **Data Engineering** roles where I can leverage my analytical skills, build scalable data solutions, and contribute to data-driven decision-making. I'm also passionate about **full-stack development** and love working on challenging problems across the stack.
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [Offline PDF Editor](https://github.com/VijayAdithyaBK/offline-pdf-editor) | Desktop PDF editing application | Electron, JavaScript |
+| [Naukri Scraper](https://github.com/VijayAdithyaBK/naukri_scraper) | Job listing scraper and analyzer | Python |
+| [YouTube Downloader](https://github.com/VijayAdithyaBK/youtube_downloader) | Video download utility | Python |
+| [Chatbot Project](https://github.com/VijayAdithyaBK/chatbot_project) | Conversational AI chatbot | Python |
+| [Newspaper App](https://github.com/VijayAdithyaBK/newspaper_app) | News aggregation application | Python |
+| [Kanban Board](https://github.com/VijayAdithyaBK/kanban-board) | Task management board | JavaScript |
+| [QR Code Generator](https://github.com/VijayAdithyaBK/qr-code-generator) | QR code creation tool | JavaScript |
+| [Vanilla Node REST API](https://github.com/VijayAdithyaBK/vanilla-node-rest-api) | REST API without frameworks | Node.js |
 
-💼 **Status**: Open for Hiring  
-🌍 **Location**: India (UTC +05:30)  
-✉️ **Reach Out**: Let's discuss data, engineering, or interesting projects!
+---
+
+## 📈 Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VijayAdithyaBK&show_icons=true&theme=default&hide_border=true&include_all_commits=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VijayAdithyaBK&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="170"/>
+</div>
+
+---
+
+## 💼 Status
+
+**Open to opportunities** in Data Engineering and Full-Stack Development  
+📍 India (UTC +05:30)
 
 ---
 
 <div align="center">
-
-### 💭 "Data is the new oil, but only if you refine it"
-
-*Building data pipelines, crafting applications, and learning something new every day* 🚀
-
+  <i>Building data pipelines, crafting applications, learning every day</i>
 </div>
