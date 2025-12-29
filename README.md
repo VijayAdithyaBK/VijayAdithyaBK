@@ -6,7 +6,7 @@
 
 *Building data pipelines, crafting applications, and turning ideas into reality*
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge)](https://vijayadithyabk.framer.website/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge)](https://vijayadithyabk.github.io/data-nexus/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vijayadithyabk/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@criesin.90days)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vijayadithyabk@gmail.com)
@@ -255,10 +255,10 @@ Communication and outreach platform for teams.
 <tr>
 <td width="50%">
 
-### 🎨 Developer Portfolio
-Professional portfolio website showcasing projects and skills.
+### � Data Nexus
+New portfolio website showcasing data and development projects.
 
-[→ View Project](https://github.com/VijayAdithyaBK/developer-portfolio)
+[→ View Project](https://github.com/VijayAdithyaBK/data-nexus)
 
 </td>
 <td width="50%">
