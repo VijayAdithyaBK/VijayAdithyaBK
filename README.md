@@ -1,82 +1,134 @@
-<div align="center">
-  <img src="https://github.com/VijayAdithyaBK/VijayAdithyaBK/blob/main/header.png" alt="banner that says I'm Vijay Adithya B K">
-  <h4><samp>Building tailored solutions using PostgreSQL, Node.JS, Python, and ReactJS</samp></h4>
-  <p><samp>🚀 Software Developer | Open for Hiring | <a href="https://vijayadithyabk.framer.website/" target="blank">Portfolio</a></samp></p>
-  <p>
-    <a href="mailto:vijayadithyabk@gmail.com">
-      <img src="https://img.shields.io/badge/Email-vijayadithyabk%40outlook.com-red?style=for-the-badge&logo=gmail" alt="Email">
-    </a>
-  </p>
-  <p>
-    <a href="https://linkedin.com/in/vijayadithyabk" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vijayadithyabk" height="30" width="40" /></a>
-    <a href="https://www.leetcode.com/vijayadithyabk" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vijayadithyabk" height="30" width="40" /></a>
-    <a href="https://medium.com/@criesin.90days" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@criesin.90days" height="30" width="40" /></a>
-    <a href="https://www.hackerrank.com/vijayadithyabk" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vijayadithyabk" height="30" width="40" /></a>
-    <a href="https://www.kaggle.com/vijayadithyabk" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vijayadithyabk" height="30" width="40" /></a>
-  </p>
-</div>
+# 👋 Hi, I'm Vijay Adithya B K
+
+## 🎯 Data Engineer | Full-Stack Developer | Continuous Learner
+
+I'm a passionate **Data Engineer** specializing in building robust data pipelines, performing advanced analytics, and creating data-driven solutions. With hands-on experience in **Python**, **SQL**, **PostgreSQL**, and modern data engineering tools, I transform raw data into actionable insights.
+
+Beyond data engineering, I'm a **versatile builder** who loves crafting full-stack applications, experimenting with new technologies, and solving real-world problems through code.
+
+---
+
+## 🔧 Core Technical Stack
+
+### Data Engineering & Analytics
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### Development & Tools
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+## 📊 What I Do
+
+### 🎲 Data Engineering
+- **ETL Pipeline Development**: Designing and implementing scalable data pipelines
+- **Database Design & Optimization**: Building efficient schemas and complex SQL queries
+- **Data Analysis & Visualization**: Extracting insights from large datasets
+- **Statistical Modeling**: Applying advanced analytics for predictive insights
+
+### 💻 Software Development
+- **Full-Stack Web Applications**: Building end-to-end solutions with modern frameworks
+- **API Development**: Creating robust RESTful APIs with FastAPI and Node.js
+- **Desktop Applications**: Developing cross-platform solutions
+- **Browser Extensions**: Crafting productivity tools for Chrome & Firefox
+
+---
+
+## 🚀 Featured Data Engineering Projects
+
+### 📈 [Cricket Data Analysis](https://github.com/VijayAdithyaBK/Cricket_Data_Analysis)
+Advanced analytics on cricket statistics using Python and Pandas. Performed exploratory data analysis, feature engineering, and statistical modeling to derive player insights and match predictions.
+
+**Tech Stack**: Python, Pandas, NumPy, Matplotlib, Seaborn
+
+### 🛒 [Retail Sales Analysis](https://github.com/VijayAdithyaBK/Retail_Sales)
+Comprehensive analysis of retail sales trends to identify customer patterns, seasonal variations, and revenue drivers. Built interactive dashboards for stakeholder presentations.
+
+**Tech Stack**: Python, SQL, Pandas, Data Visualization
+
+### 🍕 [Pizza Runner Case Study](https://github.com/VijayAdithyaBK/Pizza_Runner_Case_Study)
+End-to-end data analysis project examining delivery metrics, customer behavior, and operational efficiency for a pizza delivery service using advanced SQL techniques.
+
+**Tech Stack**: PostgreSQL, Complex SQL Queries, CTEs, Window Functions
+
+### 🍽️ [Danny's Diner Case Study](https://github.com/VijayAdithyaBK/Dannys_Diner_Case_Study)
+SQL-focused case study analyzing customer segmentation, purchasing patterns, and loyalty program effectiveness with sophisticated query optimization.
+
+**Tech Stack**: PostgreSQL, SQL Analytics, Data Modeling
+
+### 📚 [Library System Management](https://github.com/VijayAdithyaBK/Library-System-Management)
+Full-featured library management system with database design, CRUD operations, and reporting capabilities.
+
+**Tech Stack**: Python, PostgreSQL, Database Design
+
+### 🚗 [Auto MPG Dataset EDA](https://github.com/VijayAdithyaBK/Auto_MPG_Dataset_EDA)
+Exploratory data analysis examining fuel consumption patterns and vehicle characteristics. Applied statistical techniques and regression analysis for MPG prediction.
+
+**Tech Stack**: Python, Pandas, Scikit-learn, Statistical Analysis
+
+---
+
+## 💡 Full-Stack & Experimental Projects
+
+### 🖥️ [GPU Runtime Demo](https://github.com/VijayAdithyaBK/gpu-runtime-demo)
+Exploring GPU-accelerated computing with TensorFlow and PyTorch. Benchmarking performance across different configurations.
+
+### 📝 [TidyMind AI](https://github.com/VijayAdithyaBK/tidymind-ai)
+AI-powered organization assistant using Google Gemini API to help declutter and organize spaces through image analysis.
+
+### 🎨 [Markdown Viewer](https://github.com/VijayAdithyaBK/maarkdown-viewer)
+Feature-rich markdown viewer browser extension with syntax highlighting and live preview.
+
+### 📊 [Digital Salary Compass](https://github.com/VijayAdithyaBK/Digital-Salary-Compass)
+Data-driven salary insights platform helping professionals understand compensation trends.
+
+### 🎯 [Jira Kanban Board](https://github.com/VijayAdithyaBK/jira-kanban-board)
+Custom Kanban board implementation with drag-and-drop, real-time updates, and Linear-style aesthetics.
+
+---
+
+## 🌱 Currently Learning & Exploring
+
+- **Advanced Data Engineering**: Apache Spark, Airflow, Data Warehousing
+- **Cloud Platforms**: AWS (S3, Redshift, Lambda), Azure Data Services
+- **Machine Learning Engineering**: MLOps, Model Deployment, Feature Stores
+- **Real-Time Data Processing**: Kafka, Stream Processing
+- **Modern Data Stack**: dbt, Snowflake, Databricks
+
+---
+
+## 📫 Let's Connect
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://vijayadithyabk.framer.website/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vijayadithyabk/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@criesin.90days)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/vijayadithyabk)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/vijayadithyabk/)
+
+---
+
+## 🎯 Open to Opportunities
+
+I'm actively seeking **Data Engineering** roles where I can leverage my analytical skills, build scalable data solutions, and contribute to data-driven decision-making. I'm also passionate about **full-stack development** and love working on challenging problems across the stack.
+
+💼 **Status**: Open for Hiring  
+🌍 **Location**: India (UTC +05:30)  
+✉️ **Reach Out**: Let's discuss data, engineering, or interesting projects!
+
+---
 
 <div align="center">
-  <p>
-    <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" alt="Node.JS" height="30">
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" alt="SQL" height="30">
-    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" height="30">
-    <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white" alt="ReactJS" height="30">
-    <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git" height="30">
-    <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" alt="Kubernetes" height="30">
-<!--     <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" height="30">
-    <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" height="30"> -->
 
-  </p>
+### 💭 "Data is the new oil, but only if you refine it"
+
+*Building data pipelines, crafting applications, and learning something new every day* 🚀
+
 </div>
-
-<!--<h1><samp>Featured</samp></h1>
-<div align="center">
-  <a href="https://vijayadithyabk.github.io/AngularPortfolio/home">
-    <img src="https://img.shields.io/badge/Angular%20Portfolio-Explore🪐-ff69b4?style=for-the-badge" alt="Angular Portfolio">
-  </a>
-  <a href="https://github.com/VijayAdithyaBK/StockPriceForecasting">
-    <img src="https://img.shields.io/badge/Stock%20Price%20Forecasting-Discover📈-ffd700?style=for-the-badge" alt="Stock Price Forecasting using Exponential Smoothing">
-  </a>
-  <a href="https://vijayadithyabk.github.io/Colors-Palletes/">
-    <img src="https://img.shields.io/badge/Colors--Palettes%20Nebula-Experience💫-blue?style=for-the-badge" alt="Colors-Palettes Nebula">
-  </a>
-  <a href="https://github.com/VijayAdithyaBK/DailyExpenseTracker">
-    <img src="https://img.shields.io/badge/Daily%20Expense%20Tracker-Check%20It%20Out🧾-orange?style=for-the-badge" alt="Daily Expense Tracker">
-  </a>
-  <a href="https://vijayadithyabk.github.io/WeatherApp">
-    <img src="https://img.shields.io/badge/Weather%20Interstellar%20App-View🌦️-9cf?style=for-the-badge" alt="Weather Interstellar App">
-  </a>
-  <a href="https://github.com/VijayAdithyaBK/voice_notes">
-    <img src="https://img.shields.io/badge/Voice%20Notes-Take%20Notes🎙️-red?style=for-the-badge" alt="Voice Notes">
-  </a>
-</div>-->
-
-<div align="center">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=VijayAdithyabk&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="vijayadithyabk" height="200vh"/>
-  <img  src="https://github-readme-stats.vercel.app/api?username=VijayAdithyabk&theme=default&hide_border=true&include_all_commits=true&count_private=true" alt="vijayadithyabk" height="200vh"/>
-</div>
-
-<div>
-   <samp><h1>Project Directory</h1>
-<!--     <p>Explore my GitHub projects, each showcasing my skills in data analysis, web development, and software engineering.</p> -->
-    <h2>Data Analysis</h2>
-    <ul>
-        <li><a href="https://github.com/VijayAdithyaBK/Cricket_Data_Analysis" target="_blank"><strong>Cricket Data Analysis</strong></a><br> Data-driven insights into cricket statistics using advanced analytical techniques.</li>
-        <li><a href="https://github.com/VijayAdithyaBK/Retail_Sales" target="_blank"><strong>Retail Sales Analysis</strong></a><br> Analysis of retail sales trends to derive actionable business insights.</li>
-        <li><a href="https://github.com/VijayAdithyaBK/Pizza_Runner_Case_Study" target="_blank"><strong>Pizza Runner Case Study</strong></a><br> A comprehensive case study analyzing delivery metrics and operational efficiency.</li>
-        <li><a href="https://github.com/VijayAdithyaBK/Dannys_Diner_Case_Study" target="_blank"><strong>Danny's Diner Case Study</strong></a><br> SQL-based case study focused on customer segmentation and diner performance.</li>
-        <li><a href="https://github.com/VijayAdithyaBK/Library-System-Management" target="_blank"><strong>Library System Management</strong></a><br> A library management application for efficient book tracking and user management.</li>
-        <li><a href="https://github.com/VijayAdithyaBK/Auto_MPG_Dataset_EDA" target="_blank"><strong>Auto MPG EDA</strong></a><br> Exploratory data analysis (EDA) of the Auto_MPG dataset to understand city-cycle fuel consumption in miles per gallon (MPG) in relation to various attributes.</li>
-    </ul>
-    <h2>Software Development</h2>
-    <ul>
-        <li><a href="https://github.com/VijayAdithyaBK/StockPriceForecasting" target="_blank"><strong>Stock Price Forecasting</strong></a><br> A machine learning project using exponential smoothing to forecast stock prices.</li>
-        <li><a href="https://github.com/VijayAdithyaBK/SudokuBookGenerator" target="_blank"><strong>Sudoku Book Generator</strong></a><br> Generates Sudoku puzzles for various difficulty levels and formats.</li>
-        <li><a href="https://github.com/VijayAdithyaBK/workout_tracker_app" target="_blank"><strong>Workout Tracker App</strong></a><br> A fitness application for tracking workouts and progress.</li>
-        <li><a href="https://github.com/VijayAdithyaBK/DailyExpenseTracker" target="_blank"><strong>Daily Expense Tracker</strong></a><br> A user-friendly app for tracking and managing daily expenses.</li>
-        <li><a href="https://github.com/VijayAdithyaBK/speech_assistant" target="_blank"><strong>Speech Assistant</strong></a><br> A voice-controlled assistant for performing basic tasks.</li>
-        <li><a href="https://github.com/VijayAdithyaBK/voice_notes" target="_blank"><strong>Voice Notes</strong></a><br> A note-taking application with voice recognition capabilities.</li>
-    </ul></samp>
-</div>
-   
