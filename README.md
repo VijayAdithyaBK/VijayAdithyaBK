@@ -28,31 +28,117 @@ Tools & Platforms   →  Git • Docker • Kubernetes • Streamlit • Chrome 
 
 ## 📱 Mobile Development
 
-| Project                                                                                             | Description                                                                                                                                                                                                    |
-| --------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **[🏃 Atlas](https://github.com/VijayAdithyaBK/Atlas)**<br>`React Native` `TypeScript` `Context API` | Production-grade React Native fitness tracker with 60fps animations, advanced state management, and scalable architecture. Multi-ring progress visualization, real-time health metrics, iOS & Android support. |
+<table>
+<tr>
+<td width="50%">
+
+### [🏃 Atlas](https://github.com/VijayAdithyaBK/Atlas)
+`React Native` `TypeScript` `Context API`
+
+Production-grade fitness tracker with 60fps animations, advanced state management, and scalable architecture. Multi-ring progress visualization, real-time health metrics, iOS & Android support.
+
+</td>
+<td width="50%">
+</td>
+</tr>
+</table>
 
 ---
 
 ## 📊 Data Engineering Projects
 
-| Project                                                                                                                              | Description                                                                                                                                                                                                      |
-| ------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **[⚡ Spark ETL Pipeline](https://github.com/VijayAdithyaBK/spark-etl-pipeline)**<br>`PySpark` `Delta Lake` `Streamlit` `Plotly`      | Production-grade PySpark pipeline processing 555K+ financial transactions with fraud detection, ML models, and interactive dashboards. Random Forest (0.94 AUC-ROC), 26 engineered features, K-Means clustering. |
-| **[🏏 Cricket Data Analysis](https://github.com/VijayAdithyaBK/Cricket_Data_Analysis)**<br>`Python` `Pandas` `NumPy`                  | Statistical analysis and insights from cricket match data using advanced analytical techniques.                                                                                                                  |
-| **[🛒 Retail Sales Analysis](https://github.com/VijayAdithyaBK/Retail_Sales)**<br>`Python` `SQL` `Pandas`                             | Sales trend analysis and business intelligence for actionable insights.                                                                                                                                          |
-| **[🍕 Pizza Runner Case Study](https://github.com/VijayAdithyaBK/Pizza_Runner_Case_Study)**<br>`PostgreSQL` `CTEs` `Window Functions` | Delivery metrics and operational efficiency analysis using advanced SQL.                                                                                                                                         |
-| **[🍽️ Danny's Diner](https://github.com/VijayAdithyaBK/Dannys_Diner_Case_Study)**<br>`PostgreSQL` `SQL Analytics`                     | Customer segmentation and loyalty program effectiveness analysis.                                                                                                                                                |
-| **[💳 Credit Card Expense](https://github.com/VijayAdithyaBK/Credit_Card_Expense_Analysis)**<br>`Python` `Pandas` `Visualization`     | Expense pattern analysis and visualization for financial insights.                                                                                                                                               |
+<table>
+<tr>
+<td width="50%">
+
+### [⚡ Spark ETL Pipeline](https://github.com/VijayAdithyaBK/spark-etl-pipeline)
+`PySpark` `Delta Lake` `Streamlit` `Plotly`
+
+Production-grade PySpark pipeline processing 555K+ financial transactions with fraud detection, ML models, and interactive dashboards. Random Forest (0.94 AUC-ROC), 26 engineered features.
+
+</td>
+<td width="50%">
+
+### [🏏 Cricket Data Analysis](https://github.com/VijayAdithyaBK/Cricket_Data_Analysis)
+`Python` `Pandas` `NumPy`
+
+Statistical analysis and insights from cricket match data using advanced analytical techniques.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### [🛒 Retail Sales Analysis](https://github.com/VijayAdithyaBK/Retail_Sales)
+`Python` `SQL` `Pandas`
+
+Sales trend analysis and business intelligence for actionable insights.
+
+</td>
+<td width="50%">
+
+### [🍕 Pizza Runner Case Study](https://github.com/VijayAdithyaBK/Pizza_Runner_Case_Study)
+`PostgreSQL` `CTEs` `Window Functions`
+
+Delivery metrics and operational efficiency analysis using advanced SQL.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### [🍽️ Danny's Diner](https://github.com/VijayAdithyaBK/Dannys_Diner_Case_Study)
+`PostgreSQL` `SQL Analytics`
+
+Customer segmentation and loyalty program effectiveness analysis.
+
+</td>
+<td width="50%">
+
+### [💳 Credit Card Expense](https://github.com/VijayAdithyaBK/Credit_Card_Expense_Analysis)
+`Python` `Pandas` `Visualization`
+
+Expense pattern analysis and visualization for financial insights.
+
+</td>
+</tr>
+</table>
 
 <details>
 <summary>📦 View 3 More Data Projects</summary>
 
-| Project                                                                                                                        | Description                                                                |
-| ------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------- |
-| **[🌦️ Weather & Restaurant Ratings](https://github.com/VijayAdithyaBK/Weather_Restaurant_Ratings)**<br>`Python` `Data Analysis` | Correlation analysis between weather conditions and restaurant ratings.    |
-| **[📚 Library System](https://github.com/VijayAdithyaBK/Library-System-Management)**<br>`Python` `PostgreSQL`                   | Full-featured library management with database design and CRUD operations. |
-| **[👥 HR Database](https://github.com/VijayAdithyaBK/HR_Database_Design)**<br>`PostgreSQL` `Database Design`                    | Enterprise HR database schema design with complex queries.                 |
+<table>
+<tr>
+<td width="50%">
+
+### [🌦️ Weather & Restaurant Ratings](https://github.com/VijayAdithyaBK/Weather_Restaurant_Ratings)
+`Python` `Data Analysis`
+
+Correlation analysis between weather conditions and restaurant ratings.
+
+</td>
+<td width="50%">
+
+### [📚 Library System](https://github.com/VijayAdithyaBK/Library-System-Management)
+`Python` `PostgreSQL`
+
+Full-featured library management with database design and CRUD operations.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### [👥 HR Database](https://github.com/VijayAdithyaBK/HR_Database_Design)
+`PostgreSQL` `Database Design`
+
+Enterprise HR database schema design with complex queries.
+
+</td>
+<td width="50%">
+</td>
+</tr>
+</table>
 
 </details>
 
@@ -60,41 +146,154 @@ Tools & Platforms   →  Git • Docker • Kubernetes • Streamlit • Chrome 
 
 ## 🖥️ Desktop Applications
 
-| Project                                                                                                                 | Description                                                                                                                                                      |
-| ----------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **[🏭 IndustrialMonitor](https://github.com/VijayAdithyaBK/IndustrialMonitor)**<br>`.NET 8` `WPF` `C# 12` `MVVM Toolkit` | Modern WPF application for industrial equipment monitoring with real-time telemetry simulation and MVVM architecture. Dependency injection, testable ViewModels. |
+<table>
+<tr>
+<td width="50%">
+
+### [🏭 IndustrialMonitor](https://github.com/VijayAdithyaBK/IndustrialMonitor)
+`.NET 8` `WPF` `C# 12` `MVVM Toolkit`
+
+Modern WPF application for industrial equipment monitoring with real-time telemetry simulation and MVVM architecture. Dependency injection, testable ViewModels.
+
+</td>
+<td width="50%">
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🤖 Automation & AI Tools
 
-| Project                                                                                                          | Description                                                                                                                                                                                |
-| ---------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **[📧 Intelli-G](https://github.com/VijayAdithyaBK/intelli-g)**<br>`Google Apps Script` `Gemini API` `JavaScript` | Gmail to Sheets intelligent extractor using Gemini AI. Automatically extracts facts, dates, and action items from emails into structured spreadsheets. Privacy-focused with smart routing. |
+<table>
+<tr>
+<td width="50%">
+
+### [📧 Intelli-G](https://github.com/VijayAdithyaBK/intelli-g)
+`Google Apps Script` `Gemini API` `JavaScript`
+
+Gmail to Sheets intelligent extractor using Gemini AI. Automatically extracts facts, dates, and action items from emails into structured spreadsheets. Privacy-focused with smart routing.
+
+</td>
+<td width="50%">
+</td>
+</tr>
+</table>
 
 ---
 
 ## 💻 Full-Stack Applications
 
-| Project                                                                                                                           | Description                                                                                                                                       |
-| --------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **[🌿 Verdant & Vine](https://github.com/VijayAdithyaBK/verdant-and-vine)**<br>`React` `TypeScript` `Tailwind CSS` `Framer Motion` | Interactive plant nursery web app featuring dynamic catalog, virtual terrarium game, and lush organic animations. Google Sheets integration.      |
-| **[📸 PhotoSync](https://github.com/VijayAdithyaBK/photo-sync)**<br>`React` `PeerJS` `TypeScript` `Vite`                           | Local WiFi photo transfer app enabling instant image sharing between devices without cloud uploads. QR code connection, P2P transfer, zero setup. |
-| **[🧠 TidyMind AI](https://github.com/VijayAdithyaBK/tidymind-ai)**<br>`React` `Gemini API` `Vite`                                 | AI-powered room organization assistant using Google Gemini API.                                                                                   |
-| **[💰 Digital Salary Compass](https://github.com/VijayAdithyaBK/Digital-Salary-Compass)**<br>`React` `Data Visualization`          | Salary insights platform for compensation analytics and trends.                                                                                   |
-| **[⚡ GPU Runtime Demo](https://github.com/VijayAdithyaBK/gpu-runtime-demo)**<br>`Python` `TensorFlow` `PyTorch`                   | GPU-accelerated computing benchmarks with TensorFlow and PyTorch.                                                                                 |
-| **[📋 Jira Kanban Board](https://github.com/VijayAdithyaBK/jira-kanban-board)**<br>`React` `TypeScript` `DnD`                      | Project management board with drag-and-drop and real-time updates.                                                                                |
+<table>
+<tr>
+<td width="50%">
+
+### [🌿 Verdant & Vine](https://github.com/VijayAdithyaBK/verdant-and-vine)
+`React` `TypeScript` `Tailwind CSS` `Framer Motion`
+
+Interactive plant nursery web app featuring dynamic catalog, virtual terrarium game, and lush organic animations. Google Sheets integration.
+
+</td>
+<td width="50%">
+
+### [📸 PhotoSync](https://github.com/VijayAdithyaBK/photo-sync)
+`React` `PeerJS` `TypeScript` `Vite`
+
+Local WiFi photo transfer app enabling instant image sharing between devices without cloud uploads. QR code connection, P2P transfer.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### [🧠 TidyMind AI](https://github.com/VijayAdithyaBK/tidymind-ai)
+`React` `Gemini API` `Vite`
+
+AI-powered room organization assistant using Google Gemini API.
+
+</td>
+<td width="50%">
+
+### [💰 Digital Salary Compass](https://github.com/VijayAdithyaBK/Digital-Salary-Compass)
+`React` `Data Visualization`
+
+Salary insights platform for compensation analytics and trends.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### [⚡ GPU Runtime Demo](https://github.com/VijayAdithyaBK/gpu-runtime-demo)
+`Python` `TensorFlow` `PyTorch`
+
+GPU-accelerated computing benchmarks with TensorFlow and PyTorch.
+
+</td>
+<td width="50%">
+
+### [📋 Jira Kanban Board](https://github.com/VijayAdithyaBK/jira-kanban-board)
+`React` `TypeScript` `DnD`
+
+Project management board with drag-and-drop and real-time updates.
+
+</td>
+</tr>
+</table>
 
 <details>
 <summary>📦 View 5 More Full-Stack Projects</summary>
 
-| Project                                                                                        | Description                                         |
-| ---------------------------------------------------------------------------------------------- | --------------------------------------------------- |
-| **[🏢 Office Haven](https://github.com/VijayAdithyaBK/Office-Haven)**<br>`Full-Stack Web`       | Workspace management platform for modern offices.   |
-| **[📧 OutreachSpace](https://github.com/VijayAdithyaBK/outreachspace)**<br>`React` `Node.js`    | Communication and outreach platform for teams.      |
-| **[💼 Developed4U](https://github.com/VijayAdithyaBK/developed4u)**<br>`React`                  | Custom development showcase platform.               |
-| **[💻 Online Code Editor](https://github.com/VijayAdithyaBK/OnlineCodeEditor)**<br>`JavaScript` | Browser-based code editor with syntax highlighting. |
-| **[📱 App Catalog](https://github.com/VijayAdithyaBK/my-app-catalog-main)**<br>`React`          | Application portfolio showcase.                     |
+<table>
+<tr>
+<td width="50%">
+
+### [🏢 Office Haven](https://github.com/VijayAdithyaBK/Office-Haven)
+`Full-Stack Web`
+
+Workspace management platform for modern offices.
+
+</td>
+<td width="50%">
+
+### [📧 OutreachSpace](https://github.com/VijayAdithyaBK/outreachspace)
+`React` `Node.js`
+
+Communication and outreach platform for teams.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### [💼 Developed4U](https://github.com/VijayAdithyaBK/developed4u)
+`React`
+
+Custom development showcase platform.
+
+</td>
+<td width="50%">
+
+### [💻 Online Code Editor](https://github.com/VijayAdithyaBK/OnlineCodeEditor)
+`JavaScript`
+
+Browser-based code editor with syntax highlighting.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### [📱 App Catalog](https://github.com/VijayAdithyaBK/my-app-catalog-main)
+`React`
+
+Application portfolio showcase.
+
+</td>
+<td width="50%">
+</td>
+</tr>
+</table>
 
 </details>
 
@@ -102,11 +301,34 @@ Tools & Platforms   →  Git • Docker • Kubernetes • Streamlit • Chrome 
 
 ## 🛠️ Tools & Browser Extensions
 
-| Category             | Projects                                                                                                                                                                                                |
-| -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **📝 Text & Reading** | [Maarkdown Viewer](https://github.com/VijayAdithyaBK/maarkdown-viewer) • [Text Reader](https://github.com/VijayAdithyaBK/text-reader) • [LumeRead](https://github.com/VijayAdithyaBK/lumeread)          |
-| **🎨 Design & Color** | [Colorly](https://github.com/VijayAdithyaBK/colorly) • [Colorly Lite](https://github.com/VijayAdithyaBK/colorly-lite) • [Color Manipulator](https://github.com/VijayAdithyaBK/simple-color-manipulator) |
-| **🔧 Productivity**   | [FormGenie](https://github.com/VijayAdithyaBK/formgenie) • [TypeMaster](https://github.com/VijayAdithyaBK/typemaster) • [Hotstar Ad Muter](https://github.com/VijayAdithyaBK/hotstar-ad-muter)          |
+<table>
+<tr>
+<td width="33%">
+
+**📝 Text & Reading**
+- [Maarkdown Viewer](https://github.com/VijayAdithyaBK/maarkdown-viewer)
+- [Text Reader](https://github.com/VijayAdithyaBK/text-reader)
+- [LumeRead](https://github.com/VijayAdithyaBK/lumeread)
+
+</td>
+<td width="33%">
+
+**🎨 Design & Color**
+- [Colorly](https://github.com/VijayAdithyaBK/colorly)
+- [Colorly Lite](https://github.com/VijayAdithyaBK/colorly-lite)
+- [Color Manipulator](https://github.com/VijayAdithyaBK/simple-color-manipulator)
+
+</td>
+<td width="33%">
+
+**🔧 Productivity**
+- [FormGenie](https://github.com/VijayAdithyaBK/formgenie)
+- [TypeMaster](https://github.com/VijayAdithyaBK/typemaster)
+- [Hotstar Ad Muter](https://github.com/VijayAdithyaBK/hotstar-ad-muter)
+
+</td>
+</tr>
+</table>
 
 <details>
 <summary>🔍 View 8 More Tools & Utilities</summary>
@@ -126,12 +348,40 @@ Tools & Platforms   →  Git • Docker • Kubernetes • Streamlit • Chrome 
 
 ## 🌐 Portfolio & Web Projects
 
-| Project                                                                                  | Description                                                   |
-| ---------------------------------------------------------------------------------------- | ------------------------------------------------------------- |
-| **[🌐 Data Nexus](https://github.com/VijayAdithyaBK/data-nexus)**                         | Portfolio website showcasing data and development projects.   |
-| **[🎯 The Final Portfolio](https://github.com/VijayAdithyaBK/the-final-portfolio)**       | Comprehensive portfolio with modern design and animations.    |
-| **[🎵 Smart Playlist](https://github.com/VijayAdithyaBK/smart-playlist)**                 | Intelligent music playlist generator with AI recommendations. |
-| **[💼 Portfolio Tailwind](https://github.com/VijayAdithyaBK/portfolio-tailwind-reactjs)** | Modern portfolio built with Tailwind CSS and React.           |
+<table>
+<tr>
+<td width="50%">
+
+### [🌐 Data Nexus](https://github.com/VijayAdithyaBK/data-nexus)
+
+Portfolio website showcasing data and development projects.
+
+</td>
+<td width="50%">
+
+### [🎯 The Final Portfolio](https://github.com/VijayAdithyaBK/the-final-portfolio)
+
+Comprehensive portfolio with modern design and animations.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### [🎵 Smart Playlist](https://github.com/VijayAdithyaBK/smart-playlist)
+
+Intelligent music playlist generator with AI recommendations.
+
+</td>
+<td width="50%">
+
+### [💼 Portfolio Tailwind](https://github.com/VijayAdithyaBK/portfolio-tailwind-reactjs)
+
+Modern portfolio built with Tailwind CSS and React.
+
+</td>
+</tr>
+</table>
 
 ---
 
