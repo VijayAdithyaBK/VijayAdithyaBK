@@ -18,10 +18,32 @@
 ## 🔧 Tech Stack
 
 ```text
-Data & Analytics    →  Python • SQL • PostgreSQL • Pandas • NumPy
-Development         →  Node.js • React • FastAPI • JavaScript • TypeScript
-Tools & Platforms   →  Git • Docker • Kubernetes • Chrome Extensions
+Data & Analytics    →  Python • PySpark • SQL • PostgreSQL • Pandas • NumPy • Delta Lake
+Development         →  React Native • Node.js • React • FastAPI • JavaScript • TypeScript
+Desktop & Systems   →  .NET • WPF • C#
+Tools & Platforms   →  Git • Docker • Kubernetes • Streamlit • Chrome Extensions
 ```
+
+---
+
+## 📱 Mobile Development
+
+<table>
+<tr>
+<td width="100%">
+
+### 🏃 Atlas - Fitness Tracking App
+Production-grade React Native fitness tracker with 60fps animations, advanced state management, and scalable architecture.
+
+**Stack:** React Native, Context API, TypeScript
+
+**Highlights:** Multi-ring progress visualization, real-time health metrics, feature-based architecture, iOS & Android support
+
+[→ View Project](https://github.com/VijayAdithyaBK/Atlas)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -29,6 +51,18 @@ Tools & Platforms   →  Git • Docker • Kubernetes • Chrome Extensions
 
 <table>
 <tr>
+<td width="50%">
+
+### ⚡ Spark ETL Pipeline
+Production-grade PySpark pipeline processing 555K+ financial transactions with fraud detection, ML models, and interactive dashboards.
+
+**Stack:** PySpark, Delta Lake, Streamlit, Plotly
+
+**Highlights:** Random Forest (0.94 AUC-ROC), 26 engineered features, K-Means clustering, geographic analysis
+
+[→ View Project](https://github.com/VijayAdithyaBK/spark-etl-pipeline)
+
+</td>
 <td width="50%">
 
 ### 🏏 Cricket Data Analysis
@@ -120,9 +154,77 @@ Enterprise HR database schema design with complex queries.
 
 ---
 
+## 🖥️ Desktop Applications
+
+<table>
+<tr>
+<td width="100%">
+
+### 🏭 IndustrialMonitor
+Modern WPF application for industrial equipment monitoring with real-time telemetry simulation and MVVM architecture.
+
+**Stack:** .NET 8, WPF, C# 12, MVVM Toolkit
+
+**Highlights:** Dependency injection, testable ViewModels, real-time data simulation, professional UI
+
+[→ View Project](https://github.com/VijayAdithyaBK/IndustrialMonitor)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🤖 Automation & AI Tools
+
+<table>
+<tr>
+<td width="100%">
+
+### 📧 Intelli-G
+Gmail to Sheets intelligent extractor using Gemini AI. Automatically extracts facts, dates, and action items from emails into structured spreadsheets.
+
+**Stack:** Google Apps Script, Gemini API, JavaScript
+
+**Highlights:** Automated email processing, AI-powered data extraction, smart routing, privacy-focused
+
+[→ View Project](https://github.com/VijayAdithyaBK/intelli-g)
+
+</td>
+</tr>
+</table>
+
+---
+
 ## 💻 Full-Stack Applications
 
 <table>
+<tr>
+<td width="50%">
+
+### 🌿 Verdant & Vine
+Interactive plant nursery web app featuring dynamic catalog, virtual terrarium game, and lush organic animations.
+
+**Stack:** React, TypeScript, Tailwind CSS, Framer Motion
+
+**Highlights:** Virtual terrarium game, Google Sheets integration, buttery smooth animations
+
+[→ View Project](https://github.com/VijayAdithyaBK/verdant-and-vine)
+
+</td>
+<td width="50%">
+
+### 📸 PhotoSync
+Local WiFi photo transfer app enabling instant image sharing between devices without cloud uploads.
+
+**Stack:** React, PeerJS, TypeScript, Vite
+
+**Highlights:** QR code connection, P2P transfer, zero setup, privacy-focused
+
+[→ View Project](https://github.com/VijayAdithyaBK/photo-sync)
+
+</td>
+</tr>
 <tr>
 <td width="50%">
 
@@ -299,17 +401,6 @@ Modern portfolio built with Tailwind CSS and React.
 - **[Newspaper App](https://github.com/VijayAdithyaBK/newspaper_app)** - News aggregation application
 - **[Kanban Board](https://github.com/VijayAdithyaBK/kanban-board)** - Task management system
 - **[Vanilla Node REST API](https://github.com/VijayAdithyaBK/vanilla-node-rest-api)** - Framework-free REST API
-
----
-
-<div align="center">
-
-## 📈 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=VijayAdithyaBK&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&include_all_commits=true" alt="GitHub Stats" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VijayAdithyaBK&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F" alt="Top Languages" height="180"/>
-
-</div>
 
 ---
 
